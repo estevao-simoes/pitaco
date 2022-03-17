@@ -10,29 +10,40 @@ const params = {
     'maxCols': 5
 }
 
-const currentWord = 'tesao'
+const currentWord = 'carol'
 
-document.addEventListener('keydown', (event) => {
-
-    console.log(currentRow, currentColumn)
+document.addEventListener("DOMContentLoaded", function (event) {
     
-    if (isValidKeypress(event) && boxIsEmpty()){
-        addLetterToColumn(event.key)
+    document.addEventListener('keydown', (event) => {
+        validateInput(event);
+    });
+    
+    document.querySelectorAll('#keyboard .key').forEach((key) => {
+        key.addEventListener('click', (event) => {
+            console.log(event.target.textContent.trim())
+            validateInput(event);
+        });
+    });
+});
+
+
+function validateInput(event){
+    
+    if (isValidKeypress(event) && boxIsEmpty()) {
+        addLetterToColumn(event)
         return nextColumn()
     }
-    
-    if (isBackspace(event)){
+
+    if (isBackspace(event)) {
         return removeLetterFromColumn()
     }
-    
-    if (isSubmit(event)){
+
+    if (isSubmit(event)) {
         return validateRow()
     }
+}
 
-})
-
-
-function addLetterToColumn(letter){
+function addLetterToColumn(event){
     
     letterBox().animate([
         { transform: 'scale(1.15)' },
@@ -41,7 +52,9 @@ function addLetterToColumn(letter){
         duration: 120,
     });
 
-    return letterBox().innerHTML = letter
+    event.type == "click" 
+        ? letterBox().innerHTML = event.target.textContent.trim().toLowerCase()
+        : letterBox().innerHTML = event.key
 }
 
 function removeLetterFromColumn(){
@@ -101,11 +114,11 @@ function compareInputWithCurrentWord()
         })
 
         if (currentWord.indexOf(letter) == column - 1){
-            getLetterInPosition(currentRow, column).style.background = 'red'
+            getLetterInPosition(currentRow, column).style.background = '#15803d'
         }else if (currentWord.indexOf(letter) != -1){
-            getLetterInPosition(currentRow, column).style.background = 'blue'
+            getLetterInPosition(currentRow, column).style.background = '#78350f'
         }else{
-            getLetterInPosition(currentRow, column).style.background = 'gray'
+            getLetterInPosition(currentRow, column).style.background = '#1f2937'
         }
     }
 
@@ -122,17 +135,18 @@ function validateRow() {
     }
 }
 
-
-
 function isValidKeypress(event){
-    return letters.indexOf(event.key) >= 0
+    return letters.indexOf(event.key) >= 0 
+        || letters.indexOf(event.target.textContent.trim().toLowerCase()) >= 0
 }
 
 function isBackspace(event){
-    return event.code == 'Backspace'
+    return event.code == 'Backspace' 
+        || event.target.textContent.trim() == ''
 }
 
 function isSubmit(event){
-    return event.code == 'Enter'
+    return event.code == 'Enter' 
+        || event.target.textContent.trim() == 'ENTER'
 }
 
