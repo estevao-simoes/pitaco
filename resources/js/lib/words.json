@@ -1,0 +1,4788 @@
+[
+    
+    {
+        "word": "negro",
+        "normalized": "negro",
+        "timestamp": "2022-03-21"
+    },
+    {
+        "word": "sagaz",
+        "normalized": "sagaz",
+        "timestamp": "2022-03-22"
+    },
+    {
+        "word": "âmago",
+        "normalized": "amago",
+        "timestamp": "2022-03-23"
+    },
+    {
+        "word": "êxito",
+        "normalized": "exito",
+        "timestamp": "2022-03-24"
+    },
+    {
+        "word": "mexer",
+        "normalized": "mexer",
+        "timestamp": "2022-03-25"
+    },
+    {
+        "word": "termo",
+        "normalized": "termo",
+        "timestamp": "2022-03-26"
+    },
+    {
+        "word": "senso",
+        "normalized": "senso",
+        "timestamp": "2022-03-27"
+    },
+    {
+        "word": "nobre",
+        "normalized": "nobre",
+        "timestamp": "2022-03-28"
+    },
+    {
+        "word": "algoz",
+        "normalized": "algoz",
+        "timestamp": "2022-03-29"
+    },
+    {
+        "word": "afeto",
+        "normalized": "afeto",
+        "timestamp": "2022-03-30"
+    },
+    {
+        "word": "plena",
+        "normalized": "plena",
+        "timestamp": "2022-03-31"
+    },
+    {
+        "word": "ética",
+        "normalized": "etica",
+        "timestamp": "2022-04-01"
+    },
+    {
+        "word": "mútua",
+        "normalized": "mutua",
+        "timestamp": "2022-04-02"
+    },
+    {
+        "word": "sutil",
+        "normalized": "sutil",
+        "timestamp": "2022-04-03"
+    },
+    {
+        "word": "tênue",
+        "normalized": "tenue",
+        "timestamp": "2022-04-04"
+    },
+    {
+        "word": "vigor",
+        "normalized": "vigor",
+        "timestamp": "2022-04-05"
+    },
+    {
+        "word": "aquém",
+        "normalized": "aquem",
+        "timestamp": "2022-04-06"
+    },
+    {
+        "word": "audaz",
+        "normalized": "audaz",
+        "timestamp": "2022-04-07"
+    },
+    {
+        "word": "porém",
+        "normalized": "porem",
+        "timestamp": "2022-04-08"
+    },
+    {
+        "word": "fazer",
+        "normalized": "fazer",
+        "timestamp": "2022-04-09"
+    },
+    {
+        "word": "sanar",
+        "normalized": "sanar",
+        "timestamp": "2022-04-10"
+    },
+    {
+        "word": "seção",
+        "normalized": "secao",
+        "timestamp": "2022-04-11"
+    },
+    {
+        "word": "inato",
+        "normalized": "inato",
+        "timestamp": "2022-04-12"
+    },
+    {
+        "word": "assim",
+        "normalized": "assim",
+        "timestamp": "2022-04-13"
+    },
+    {
+        "word": "cerne",
+        "normalized": "cerne",
+        "timestamp": "2022-04-14"
+    },
+    {
+        "word": "ideia",
+        "normalized": "ideia",
+        "timestamp": "2022-04-15"
+    },
+    {
+        "word": "desde",
+        "normalized": "desde",
+        "timestamp": "2022-04-16"
+    },
+    {
+        "word": "fosse",
+        "normalized": "fosse",
+        "timestamp": "2022-04-17"
+    },
+    {
+        "word": "poder",
+        "normalized": "poder",
+        "timestamp": "2022-04-18"
+    },
+    {
+        "word": "moral",
+        "normalized": "moral",
+        "timestamp": "2022-04-19"
+    },
+    {
+        "word": "torpe",
+        "normalized": "torpe",
+        "timestamp": "2022-04-20"
+    },
+    {
+        "word": "honra",
+        "normalized": "honra",
+        "timestamp": "2022-04-21"
+    },
+    {
+        "word": "muito",
+        "normalized": "muito",
+        "timestamp": "2022-04-22"
+    },
+    {
+        "word": "justo",
+        "normalized": "justo",
+        "timestamp": "2022-04-23"
+    },
+    {
+        "word": "anexo",
+        "normalized": "anexo",
+        "timestamp": "2022-04-24"
+    },
+    {
+        "word": "fútil",
+        "normalized": "futil",
+        "timestamp": "2022-04-25"
+    },
+    {
+        "word": "razão",
+        "normalized": "razao",
+        "timestamp": "2022-04-26"
+    },
+    {
+        "word": "quiçá",
+        "normalized": "quica",
+        "timestamp": "2022-04-27"
+    },
+    {
+        "word": "etnia",
+        "normalized": "etnia",
+        "timestamp": "2022-04-28"
+    },
+    {
+        "word": "ícone",
+        "normalized": "icone",
+        "timestamp": "2022-04-29"
+    },
+    {
+        "word": "sobre",
+        "normalized": "sobre",
+        "timestamp": "2022-04-30"
+    },
+    {
+        "word": "tange",
+        "normalized": "tange",
+        "timestamp": "2022-05-01"
+    },
+    {
+        "word": "égide",
+        "normalized": "egide",
+        "timestamp": "2022-05-02"
+    },
+    {
+        "word": "lapso",
+        "normalized": "lapso",
+        "timestamp": "2022-05-03"
+    },
+    {
+        "word": "mútuo",
+        "normalized": "mutuo",
+        "timestamp": "2022-05-04"
+    },
+    {
+        "word": "sonho",
+        "normalized": "sonho",
+        "timestamp": "2022-05-05"
+    },
+    {
+        "word": "expor",
+        "normalized": "expor",
+        "timestamp": "2022-05-06"
+    },
+    {
+        "word": "haver",
+        "normalized": "haver",
+        "timestamp": "2022-05-07"
+    },
+    {
+        "word": "hábil",
+        "normalized": "habil",
+        "timestamp": "2022-05-08"
+    },
+    {
+        "word": "amigo",
+        "normalized": "amigo",
+        "timestamp": "2022-05-09"
+    },
+    {
+        "word": "tempo",
+        "normalized": "tempo",
+        "timestamp": "2022-05-10"
+    },
+    {
+        "word": "pesar",
+        "normalized": "pesar",
+        "timestamp": "2022-05-11"
+    },
+    {
+        "word": "posse",
+        "normalized": "posse",
+        "timestamp": "2022-05-12"
+    },
+    {
+        "word": "ávido",
+        "normalized": "avido",
+        "timestamp": "2022-05-13"
+    },
+    {
+        "word": "então",
+        "normalized": "entao",
+        "timestamp": "2022-05-14"
+    },
+    {
+        "word": "boçal",
+        "normalized": "bocal",
+        "timestamp": "2022-05-15"
+    },
+    {
+        "word": "ardil",
+        "normalized": "ardil",
+        "timestamp": "2022-05-16"
+    },
+    {
+        "word": "coser",
+        "normalized": "coser",
+        "timestamp": "2022-05-17"
+    },
+    {
+        "word": "genro",
+        "normalized": "genro",
+        "timestamp": "2022-05-18"
+    },
+    {
+        "word": "corja",
+        "normalized": "corja",
+        "timestamp": "2022-05-19"
+    },
+    {
+        "word": "seara",
+        "normalized": "seara",
+        "timestamp": "2022-05-20"
+    },
+    {
+        "word": "dengo",
+        "normalized": "dengo",
+        "timestamp": "2022-05-21"
+    },
+    {
+        "word": "prole",
+        "normalized": "prole",
+        "timestamp": "2022-05-22"
+    },
+    {
+        "word": "detém",
+        "normalized": "detem",
+        "timestamp": "2022-05-23"
+    },
+    {
+        "word": "causa",
+        "normalized": "causa",
+        "timestamp": "2022-05-24"
+    },
+    {
+        "word": "dizer",
+        "normalized": "dizer",
+        "timestamp": "2022-05-25"
+    },
+    {
+        "word": "tenaz",
+        "normalized": "tenaz",
+        "timestamp": "2022-05-26"
+    },
+    {
+        "word": "digno",
+        "normalized": "digno",
+        "timestamp": "2022-05-27"
+    },
+    {
+        "word": "dever",
+        "normalized": "dever",
+        "timestamp": "2022-05-28"
+    },
+    {
+        "word": "crivo",
+        "normalized": "crivo",
+        "timestamp": "2022-05-29"
+    },
+    {
+        "word": "saber",
+        "normalized": "saber",
+        "timestamp": "2022-05-30"
+    },
+    {
+        "word": "óbice",
+        "normalized": "obice",
+        "timestamp": "2022-05-31"
+    },
+    {
+        "word": "ápice",
+        "normalized": "apice",
+        "timestamp": "2022-06-01"
+    },
+    {
+        "word": "ânsia",
+        "normalized": "ansia",
+        "timestamp": "2022-06-02"
+    },
+    {
+        "word": "brado",
+        "normalized": "brado",
+        "timestamp": "2022-06-03"
+    },
+    {
+        "word": "ceder",
+        "normalized": "ceder",
+        "timestamp": "2022-06-04"
+    },
+    {
+        "word": "ânimo",
+        "normalized": "animo",
+        "timestamp": "2022-06-05"
+    },
+    {
+        "word": "gleba",
+        "normalized": "gleba",
+        "timestamp": "2022-06-06"
+    },
+    {
+        "word": "pária",
+        "normalized": "paria",
+        "timestamp": "2022-06-07"
+    },
+    {
+        "word": "graça",
+        "normalized": "graca",
+        "timestamp": "2022-06-08"
+    },
+    {
+        "word": "assaz",
+        "normalized": "assaz",
+        "timestamp": "2022-06-09"
+    },
+    {
+        "word": "comum",
+        "normalized": "comum",
+        "timestamp": "2022-06-10"
+    },
+    {
+        "word": "atroz",
+        "normalized": "atroz",
+        "timestamp": "2022-06-11"
+    },
+    {
+        "word": "culto",
+        "normalized": "culto",
+        "timestamp": "2022-06-12"
+    },
+    {
+        "word": "temor",
+        "normalized": "temor",
+        "timestamp": "2022-06-13"
+    },
+    {
+        "word": "sendo",
+        "normalized": "sendo",
+        "timestamp": "2022-06-14"
+    },
+    {
+        "word": "mundo",
+        "normalized": "mundo",
+        "timestamp": "2022-06-15"
+    },
+    {
+        "word": "censo",
+        "normalized": "censo",
+        "timestamp": "2022-06-16"
+    },
+    {
+        "word": "pauta",
+        "normalized": "pauta",
+        "timestamp": "2022-06-17"
+    },
+    {
+        "word": "fugaz",
+        "normalized": "fugaz",
+        "timestamp": "2022-06-18"
+    },
+    {
+        "word": "denso",
+        "normalized": "denso",
+        "timestamp": "2022-06-19"
+    },
+    {
+        "word": "cozer",
+        "normalized": "cozer",
+        "timestamp": "2022-06-20"
+    },
+    {
+        "word": "valha",
+        "normalized": "valha",
+        "timestamp": "2022-06-21"
+    },
+    {
+        "word": "neném",
+        "normalized": "nenem",
+        "timestamp": "2022-06-22"
+    },
+    {
+        "word": "ainda",
+        "normalized": "ainda",
+        "timestamp": "2022-06-23"
+    },
+    {
+        "word": "vício",
+        "normalized": "vicio",
+        "timestamp": "2022-06-24"
+    },
+    {
+        "word": "forte",
+        "normalized": "forte",
+        "timestamp": "2022-06-25"
+    },
+    {
+        "word": "revés",
+        "normalized": "reves",
+        "timestamp": "2022-06-26"
+    },
+    {
+        "word": "vulgo",
+        "normalized": "vulgo",
+        "timestamp": "2022-06-27"
+    },
+    {
+        "word": "estar",
+        "normalized": "estar",
+        "timestamp": "2022-06-28"
+    },
+    {
+        "word": "pudor",
+        "normalized": "pudor",
+        "timestamp": "2022-06-29"
+    },
+    {
+        "word": "regra",
+        "normalized": "regra",
+        "timestamp": "2022-06-30"
+    },
+    {
+        "word": "dogma",
+        "normalized": "dogma",
+        "timestamp": "2022-07-01"
+    },
+    {
+        "word": "louco",
+        "normalized": "louco",
+        "timestamp": "2022-07-02"
+    },
+    {
+        "word": "banal",
+        "normalized": "banal",
+        "timestamp": "2022-07-03"
+    },
+    {
+        "word": "criar",
+        "normalized": "criar",
+        "timestamp": "2022-07-04"
+    },
+    {
+        "word": "pífio",
+        "normalized": "pifio",
+        "timestamp": "2022-07-05"
+    },
+    {
+        "word": "impor",
+        "normalized": "impor",
+        "timestamp": "2022-07-06"
+    },
+    {
+        "word": "tenro",
+        "normalized": "tenro",
+        "timestamp": "2022-07-07"
+    },
+    {
+        "word": "desse",
+        "normalized": "desse",
+        "timestamp": "2022-07-08"
+    },
+    {
+        "word": "apraz",
+        "normalized": "apraz",
+        "timestamp": "2022-07-09"
+    },
+    {
+        "word": "jeito",
+        "normalized": "jeito",
+        "timestamp": "2022-07-10"
+    },
+    {
+        "word": "reaça",
+        "normalized": "reaca",
+        "timestamp": "2022-07-11"
+    },
+    {
+        "word": "ordem",
+        "normalized": "ordem",
+        "timestamp": "2022-07-12"
+    },
+    {
+        "word": "round",
+        "normalized": "round",
+        "timestamp": "2022-07-13"
+    },
+    {
+        "word": "atrás",
+        "normalized": "atras",
+        "timestamp": "2022-07-14"
+    },
+    {
+        "word": "pedir",
+        "normalized": "pedir",
+        "timestamp": "2022-07-15"
+    },
+    {
+        "word": "saúde",
+        "normalized": "saude",
+        "timestamp": "2022-07-16"
+    },
+    {
+        "word": "clava",
+        "normalized": "clava",
+        "timestamp": "2022-07-17"
+    },
+    {
+        "word": "viril",
+        "normalized": "viril",
+        "timestamp": "2022-07-18"
+    },
+    {
+        "word": "mercê",
+        "normalized": "merce",
+        "timestamp": "2022-07-19"
+    },
+    {
+        "word": "usura",
+        "normalized": "usura",
+        "timestamp": "2022-07-20"
+    },
+    {
+        "word": "manso",
+        "normalized": "manso",
+        "timestamp": "2022-07-21"
+    },
+    {
+        "word": "juízo",
+        "normalized": "juizo",
+        "timestamp": "2022-07-22"
+    },
+    {
+        "word": "sábio",
+        "normalized": "sabio",
+        "timestamp": "2022-07-23"
+    },
+    {
+        "word": "ontem",
+        "normalized": "ontem",
+        "timestamp": "2022-07-24"
+    },
+    {
+        "word": "servo",
+        "normalized": "servo",
+        "timestamp": "2022-07-25"
+    },
+    {
+        "word": "prosa",
+        "normalized": "prosa",
+        "timestamp": "2022-07-26"
+    },
+    {
+        "word": "feliz",
+        "normalized": "feliz",
+        "timestamp": "2022-07-27"
+    },
+    {
+        "word": "presa",
+        "normalized": "presa",
+        "timestamp": "2022-07-28"
+    },
+    {
+        "word": "coisa",
+        "normalized": "coisa",
+        "timestamp": "2022-07-29"
+    },
+    {
+        "word": "afago",
+        "normalized": "afago",
+        "timestamp": "2022-07-30"
+    },
+    {
+        "word": "fluir",
+        "normalized": "fluir",
+        "timestamp": "2022-07-31"
+    },
+    {
+        "word": "falar",
+        "normalized": "falar",
+        "timestamp": "2022-08-01"
+    },
+    {
+        "word": "ébrio",
+        "normalized": "ebrio",
+        "timestamp": "2022-08-02"
+    },
+    {
+        "word": "cunho",
+        "normalized": "cunho",
+        "timestamp": "2022-08-03"
+    },
+    {
+        "word": "forma",
+        "normalized": "forma",
+        "timestamp": "2022-08-04"
+    },
+    {
+        "word": "devir",
+        "normalized": "devir",
+        "timestamp": "2022-08-05"
+    },
+    {
+        "word": "meiga",
+        "normalized": "meiga",
+        "timestamp": "2022-08-06"
+    },
+    {
+        "word": "vendo",
+        "normalized": "vendo",
+        "timestamp": "2022-08-07"
+    },
+    {
+        "word": "sério",
+        "normalized": "serio",
+        "timestamp": "2022-08-08"
+    },
+    {
+        "word": "platô",
+        "normalized": "plato",
+        "timestamp": "2022-08-09"
+    },
+    {
+        "word": "guisa",
+        "normalized": "guisa",
+        "timestamp": "2022-08-10"
+    },
+    {
+        "word": "pleno",
+        "normalized": "pleno",
+        "timestamp": "2022-08-11"
+    },
+    {
+        "word": "visar",
+        "normalized": "visar",
+        "timestamp": "2022-08-12"
+    },
+    {
+        "word": "temer",
+        "normalized": "temer",
+        "timestamp": "2022-08-13"
+    },
+    {
+        "word": "mesmo",
+        "normalized": "mesmo",
+        "timestamp": "2022-08-14"
+    },
+    {
+        "word": "cisma",
+        "normalized": "cisma",
+        "timestamp": "2022-08-15"
+    },
+    {
+        "word": "limbo",
+        "normalized": "limbo",
+        "timestamp": "2022-08-16"
+    },
+    {
+        "word": "bruma",
+        "normalized": "bruma",
+        "timestamp": "2022-08-17"
+    },
+    {
+        "word": "mágoa",
+        "normalized": "magoa",
+        "timestamp": "2022-08-18"
+    },
+    {
+        "word": "acaso",
+        "normalized": "acaso",
+        "timestamp": "2022-08-19"
+    },
+    {
+        "word": "puder",
+        "normalized": "puder",
+        "timestamp": "2022-08-20"
+    },
+    {
+        "word": "herói",
+        "normalized": "heroi",
+        "timestamp": "2022-08-21"
+    },
+    {
+        "word": "êxodo",
+        "normalized": "exodo",
+        "timestamp": "2022-08-22"
+    },
+    {
+        "word": "gerar",
+        "normalized": "gerar",
+        "timestamp": "2022-08-23"
+    },
+    {
+        "word": "óbvio",
+        "normalized": "obvio",
+        "timestamp": "2022-08-24"
+    },
+    {
+        "word": "afins",
+        "normalized": "afins",
+        "timestamp": "2022-08-25"
+    },
+    {
+        "word": "obter",
+        "normalized": "obter",
+        "timestamp": "2022-08-26"
+    },
+    {
+        "word": "valor",
+        "normalized": "valor",
+        "timestamp": "2022-08-27"
+    },
+    {
+        "word": "lugar",
+        "normalized": "lugar",
+        "timestamp": "2022-08-28"
+    },
+    {
+        "word": "ímpio",
+        "normalized": "impio",
+        "timestamp": "2022-08-29"
+    },
+    {
+        "word": "matiz",
+        "normalized": "matiz",
+        "timestamp": "2022-08-30"
+    },
+    {
+        "word": "praxe",
+        "normalized": "praxe",
+        "timestamp": "2022-08-31"
+    },
+    {
+        "word": "crise",
+        "normalized": "crise",
+        "timestamp": "2022-09-01"
+    },
+    {
+        "word": "senil",
+        "normalized": "senil",
+        "timestamp": "2022-09-02"
+    },
+    {
+        "word": "havia",
+        "normalized": "havia",
+        "timestamp": "2022-09-03"
+    },
+    {
+        "word": "vênia",
+        "normalized": "venia",
+        "timestamp": "2022-09-04"
+    },
+    {
+        "word": "certo",
+        "normalized": "certo",
+        "timestamp": "2022-09-05"
+    },
+    {
+        "word": "fluxo",
+        "normalized": "fluxo",
+        "timestamp": "2022-09-06"
+    },
+    {
+        "word": "enfim",
+        "normalized": "enfim",
+        "timestamp": "2022-09-07"
+    },
+    {
+        "word": "álibi",
+        "normalized": "alibi",
+        "timestamp": "2022-09-08"
+    },
+    {
+        "word": "tédio",
+        "normalized": "tedio",
+        "timestamp": "2022-09-09"
+    },
+    {
+        "word": "ritmo",
+        "normalized": "ritmo",
+        "timestamp": "2022-09-10"
+    },
+    {
+        "word": "posso",
+        "normalized": "posso",
+        "timestamp": "2022-09-11"
+    },
+    {
+        "word": "garbo",
+        "normalized": "garbo",
+        "timestamp": "2022-09-12"
+    },
+    {
+        "word": "tomar",
+        "normalized": "tomar",
+        "timestamp": "2022-09-13"
+    },
+    {
+        "word": "reter",
+        "normalized": "reter",
+        "timestamp": "2022-09-14"
+    },
+    {
+        "word": "pulha",
+        "normalized": "pulha",
+        "timestamp": "2022-09-15"
+    },
+    {
+        "word": "parvo",
+        "normalized": "parvo",
+        "timestamp": "2022-09-16"
+    },
+    {
+        "word": "união",
+        "normalized": "uniao",
+        "timestamp": "2022-09-17"
+    },
+    {
+        "word": "valia",
+        "normalized": "valia",
+        "timestamp": "2022-09-18"
+    },
+    {
+        "word": "grato",
+        "normalized": "grato",
+        "timestamp": "2022-09-19"
+    },
+    {
+        "word": "todos",
+        "normalized": "todos",
+        "timestamp": "2022-09-20"
+    },
+    {
+        "word": "vital",
+        "normalized": "vital",
+        "timestamp": "2022-09-21"
+    },
+    {
+        "word": "visão",
+        "normalized": "visao",
+        "timestamp": "2022-09-22"
+    },
+    {
+        "word": "favor",
+        "normalized": "favor",
+        "timestamp": "2022-09-23"
+    },
+    {
+        "word": "abrir",
+        "normalized": "abrir",
+        "timestamp": "2022-09-24"
+    },
+    {
+        "word": "vivaz",
+        "normalized": "vivaz",
+        "timestamp": "2022-09-25"
+    },
+    {
+        "word": "laico",
+        "normalized": "laico",
+        "timestamp": "2022-09-26"
+    },
+    {
+        "word": "bravo",
+        "normalized": "bravo",
+        "timestamp": "2022-09-27"
+    },
+    {
+        "word": "parco",
+        "normalized": "parco",
+        "timestamp": "2022-09-28"
+    },
+    {
+        "word": "prumo",
+        "normalized": "prumo",
+        "timestamp": "2022-09-29"
+    },
+    {
+        "word": "fácil",
+        "normalized": "facil",
+        "timestamp": "2022-09-30"
+    },
+    {
+        "word": "ameno",
+        "normalized": "ameno",
+        "timestamp": "2022-10-01"
+    },
+    {
+        "word": "gênio",
+        "normalized": "genio",
+        "timestamp": "2022-10-02"
+    },
+    {
+        "word": "reles",
+        "normalized": "reles",
+        "timestamp": "2022-10-03"
+    },
+    {
+        "word": "óbito",
+        "normalized": "obito",
+        "timestamp": "2022-10-04"
+    },
+    {
+        "word": "falso",
+        "normalized": "falso",
+        "timestamp": "2022-10-05"
+    },
+    {
+        "word": "possa",
+        "normalized": "possa",
+        "timestamp": "2022-10-06"
+    },
+    {
+        "word": "olhar",
+        "normalized": "olhar",
+        "timestamp": "2022-10-07"
+    },
+    {
+        "word": "prime",
+        "normalized": "prime",
+        "timestamp": "2022-10-08"
+    },
+    {
+        "word": "levar",
+        "normalized": "levar",
+        "timestamp": "2022-10-09"
+    },
+    {
+        "word": "tecer",
+        "normalized": "tecer",
+        "timestamp": "2022-10-10"
+    },
+    {
+        "word": "burro",
+        "normalized": "burro",
+        "timestamp": "2022-10-11"
+    },
+    {
+        "word": "selar",
+        "normalized": "selar",
+        "timestamp": "2022-10-12"
+    },
+    {
+        "word": "anelo",
+        "normalized": "anelo",
+        "timestamp": "2022-10-13"
+    },
+    {
+        "word": "casta",
+        "normalized": "casta",
+        "timestamp": "2022-10-14"
+    },
+    {
+        "word": "fator",
+        "normalized": "fator",
+        "timestamp": "2022-10-15"
+    },
+    {
+        "word": "citar",
+        "normalized": "citar",
+        "timestamp": "2022-10-16"
+    },
+    {
+        "word": "rogar",
+        "normalized": "rogar",
+        "timestamp": "2022-10-17"
+    },
+    {
+        "word": "adiar",
+        "normalized": "adiar",
+        "timestamp": "2022-10-18"
+    },
+    {
+        "word": "farsa",
+        "normalized": "farsa",
+        "timestamp": "2022-10-19"
+    },
+    {
+        "word": "façam",
+        "normalized": "facam",
+        "timestamp": "2022-10-20"
+    },
+    {
+        "word": "ranço",
+        "normalized": "ranco",
+        "timestamp": "2022-10-21"
+    },
+    {
+        "word": "achar",
+        "normalized": "achar",
+        "timestamp": "2022-10-22"
+    },
+    {
+        "word": "coeso",
+        "normalized": "coeso",
+        "timestamp": "2022-10-23"
+    },
+    {
+        "word": "noção",
+        "normalized": "nocao",
+        "timestamp": "2022-10-24"
+    },
+    {
+        "word": "cisão",
+        "normalized": "cisao",
+        "timestamp": "2022-10-25"
+    },
+    {
+        "word": "épico",
+        "normalized": "epico",
+        "timestamp": "2022-10-26"
+    },
+    {
+        "word": "legal",
+        "normalized": "legal",
+        "timestamp": "2022-10-27"
+    },
+    {
+        "word": "cabal",
+        "normalized": "cabal",
+        "timestamp": "2022-10-28"
+    },
+    {
+        "word": "morte",
+        "normalized": "morte",
+        "timestamp": "2022-10-29"
+    },
+    {
+        "word": "imune",
+        "normalized": "imune",
+        "timestamp": "2022-10-30"
+    },
+    {
+        "word": "sábia",
+        "normalized": "sabia",
+        "timestamp": "2022-10-31"
+    },
+    {
+        "word": "sinto",
+        "normalized": "sinto",
+        "timestamp": "2022-11-01"
+    },
+    {
+        "word": "nicho",
+        "normalized": "nicho",
+        "timestamp": "2022-11-02"
+    },
+    {
+        "word": "fardo",
+        "normalized": "fardo",
+        "timestamp": "2022-11-03"
+    },
+    {
+        "word": "falta",
+        "normalized": "falta",
+        "timestamp": "2022-11-04"
+    },
+    {
+        "word": "exato",
+        "normalized": "exato",
+        "timestamp": "2022-11-05"
+    },
+    {
+        "word": "ativo",
+        "normalized": "ativo",
+        "timestamp": "2022-11-06"
+    },
+    {
+        "word": "gente",
+        "normalized": "gente",
+        "timestamp": "2022-11-07"
+    },
+    {
+        "word": "lavra",
+        "normalized": "lavra",
+        "timestamp": "2022-11-08"
+    },
+    {
+        "word": "amplo",
+        "normalized": "amplo",
+        "timestamp": "2022-11-09"
+    },
+    {
+        "word": "força",
+        "normalized": "forca",
+        "timestamp": "2022-11-10"
+    },
+    {
+        "word": "ouvir",
+        "normalized": "ouvir",
+        "timestamp": "2022-11-11"
+    },
+    {
+        "word": "viver",
+        "normalized": "viver",
+        "timestamp": "2022-11-12"
+    },
+    {
+        "word": "brega",
+        "normalized": "brega",
+        "timestamp": "2022-11-13"
+    },
+    {
+        "word": "gesto",
+        "normalized": "gesto",
+        "timestamp": "2022-11-14"
+    },
+    {
+        "word": "labor",
+        "normalized": "labor",
+        "timestamp": "2022-11-15"
+    },
+    {
+        "word": "dúbio",
+        "normalized": "dubio",
+        "timestamp": "2022-11-16"
+    },
+    {
+        "word": "revel",
+        "normalized": "revel",
+        "timestamp": "2022-11-17"
+    },
+    {
+        "word": "cesta",
+        "normalized": "cesta",
+        "timestamp": "2022-11-18"
+    },
+    {
+        "word": "sonso",
+        "normalized": "sonso",
+        "timestamp": "2022-11-19"
+    },
+    {
+        "word": "sesta",
+        "normalized": "sesta",
+        "timestamp": "2022-11-20"
+    },
+    {
+        "word": "sulco",
+        "normalized": "sulco",
+        "timestamp": "2022-11-21"
+    },
+    {
+        "word": "deter",
+        "normalized": "deter",
+        "timestamp": "2022-11-22"
+    },
+    {
+        "word": "passo",
+        "normalized": "passo",
+        "timestamp": "2022-11-23"
+    },
+    {
+        "word": "leigo",
+        "normalized": "leigo",
+        "timestamp": "2022-11-24"
+    },
+    {
+        "word": "tendo",
+        "normalized": "tendo",
+        "timestamp": "2022-11-25"
+    },
+    {
+        "word": "único",
+        "normalized": "unico",
+        "timestamp": "2022-11-26"
+    },
+    {
+        "word": "árduo",
+        "normalized": "arduo",
+        "timestamp": "2022-11-27"
+    },
+    {
+        "word": "vemos",
+        "normalized": "vemos",
+        "timestamp": "2022-11-28"
+    },
+    {
+        "word": "atuar",
+        "normalized": "atuar",
+        "timestamp": "2022-11-29"
+    },
+    {
+        "word": "feixe",
+        "normalized": "feixe",
+        "timestamp": "2022-11-30"
+    },
+    {
+        "word": "ótica",
+        "normalized": "otica",
+        "timestamp": "2022-12-01"
+    },
+    {
+        "word": "rever",
+        "normalized": "rever",
+        "timestamp": "2022-12-02"
+    },
+    {
+        "word": "calma",
+        "normalized": "calma",
+        "timestamp": "2022-12-03"
+    },
+    {
+        "word": "ciúme",
+        "normalized": "ciume",
+        "timestamp": "2022-12-04"
+    },
+    {
+        "word": "igual",
+        "normalized": "igual",
+        "timestamp": "2022-12-05"
+    },
+    {
+        "word": "toada",
+        "normalized": "toada",
+        "timestamp": "2022-12-06"
+    },
+    {
+        "word": "humor",
+        "normalized": "humor",
+        "timestamp": "2022-12-07"
+    },
+    {
+        "word": "débil",
+        "normalized": "debil",
+        "timestamp": "2022-12-08"
+    },
+    {
+        "word": "tende",
+        "normalized": "tende",
+        "timestamp": "2022-12-09"
+    },
+    {
+        "word": "sonsa",
+        "normalized": "sonsa",
+        "timestamp": "2022-12-10"
+    },
+    {
+        "word": "ideal",
+        "normalized": "ideal",
+        "timestamp": "2022-12-11"
+    },
+    {
+        "word": "hiato",
+        "normalized": "hiato",
+        "timestamp": "2022-12-12"
+    },
+    {
+        "word": "vácuo",
+        "normalized": "vacuo",
+        "timestamp": "2022-12-13"
+    },
+    {
+        "word": "pobre",
+        "normalized": "pobre",
+        "timestamp": "2022-12-14"
+    },
+    {
+        "word": "ponto",
+        "normalized": "ponto",
+        "timestamp": "2022-12-15"
+    },
+    {
+        "word": "ambos",
+        "normalized": "ambos",
+        "timestamp": "2022-12-16"
+    },
+    {
+        "word": "claro",
+        "normalized": "claro",
+        "timestamp": "2022-12-17"
+    },
+    {
+        "word": "terno",
+        "normalized": "terno",
+        "timestamp": "2022-12-18"
+    },
+    {
+        "word": "velho",
+        "normalized": "velho",
+        "timestamp": "2022-12-19"
+    },
+    {
+        "word": "remir",
+        "normalized": "remir",
+        "timestamp": "2022-12-20"
+    },
+    {
+        "word": "fusão",
+        "normalized": "fusao",
+        "timestamp": "2022-12-21"
+    },
+    {
+        "word": "probo",
+        "normalized": "probo",
+        "timestamp": "2022-12-22"
+    },
+    {
+        "word": "outro",
+        "normalized": "outro",
+        "timestamp": "2022-12-23"
+    },
+    {
+        "word": "leito",
+        "normalized": "leito",
+        "timestamp": "2022-12-24"
+    },
+    {
+        "word": "senão",
+        "normalized": "senao",
+        "timestamp": "2022-12-25"
+    },
+    {
+        "word": "advém",
+        "normalized": "advem",
+        "timestamp": "2022-12-26"
+    },
+    {
+        "word": "doido",
+        "normalized": "doido",
+        "timestamp": "2022-12-27"
+    },
+    {
+        "word": "horda",
+        "normalized": "horda",
+        "timestamp": "2022-12-28"
+    },
+    {
+        "word": "carma",
+        "normalized": "carma",
+        "timestamp": "2022-12-29"
+    },
+    {
+        "word": "linda",
+        "normalized": "linda",
+        "timestamp": "2022-12-30"
+    },
+    {
+        "word": "marco",
+        "normalized": "marco",
+        "timestamp": "2022-12-31"
+    },
+    {
+        "word": "jovem",
+        "normalized": "jovem",
+        "timestamp": "2023-01-01"
+    },
+    {
+        "word": "inata",
+        "normalized": "inata",
+        "timestamp": "2023-01-02"
+    },
+    {
+        "word": "xeque",
+        "normalized": "xeque",
+        "timestamp": "2023-01-03"
+    },
+    {
+        "word": "capaz",
+        "normalized": "capaz",
+        "timestamp": "2023-01-04"
+    },
+    {
+        "word": "fonte",
+        "normalized": "fonte",
+        "timestamp": "2023-01-05"
+    },
+    {
+        "word": "relva",
+        "normalized": "relva",
+        "timestamp": "2023-01-06"
+    },
+    {
+        "word": "ajuda",
+        "normalized": "ajuda",
+        "timestamp": "2023-01-07"
+    },
+    {
+        "word": "tenra",
+        "normalized": "tenra",
+        "timestamp": "2023-01-08"
+    },
+    {
+        "word": "algum",
+        "normalized": "algum",
+        "timestamp": "2023-01-09"
+    },
+    {
+        "word": "caçar",
+        "normalized": "cacar",
+        "timestamp": "2023-01-10"
+    },
+    {
+        "word": "velar",
+        "normalized": "velar",
+        "timestamp": "2023-01-11"
+    },
+    {
+        "word": "anuir",
+        "normalized": "anuir",
+        "timestamp": "2023-01-12"
+    },
+    {
+        "word": "ficar",
+        "normalized": "ficar",
+        "timestamp": "2023-01-13"
+    },
+    {
+        "word": "noite",
+        "normalized": "noite",
+        "timestamp": "2023-01-14"
+    },
+    {
+        "word": "apoio",
+        "normalized": "apoio",
+        "timestamp": "2023-01-15"
+    },
+    {
+        "word": "dorso",
+        "normalized": "dorso",
+        "timestamp": "2023-01-16"
+    },
+    {
+        "word": "vimos",
+        "normalized": "vimos",
+        "timestamp": "2023-01-17"
+    },
+    {
+        "word": "rigor",
+        "normalized": "rigor",
+        "timestamp": "2023-01-18"
+    },
+    {
+        "word": "farão",
+        "normalized": "farao",
+        "timestamp": "2023-01-19"
+    },
+    {
+        "word": "série",
+        "normalized": "serie",
+        "timestamp": "2023-01-20"
+    },
+    {
+        "word": "verso",
+        "normalized": "verso",
+        "timestamp": "2023-01-21"
+    },
+    {
+        "word": "botar",
+        "normalized": "botar",
+        "timestamp": "2023-01-22"
+    },
+    {
+        "word": "vazio",
+        "normalized": "vazio",
+        "timestamp": "2023-01-23"
+    },
+    {
+        "word": "tanto",
+        "normalized": "tanto",
+        "timestamp": "2023-01-24"
+    },
+    {
+        "word": "líder",
+        "normalized": "lider",
+        "timestamp": "2023-01-25"
+    },
+    {
+        "word": "prece",
+        "normalized": "prece",
+        "timestamp": "2023-01-26"
+    },
+    {
+        "word": "cruel",
+        "normalized": "cruel",
+        "timestamp": "2023-01-27"
+    },
+    {
+        "word": "terra",
+        "normalized": "terra",
+        "timestamp": "2023-01-28"
+    },
+    {
+        "word": "morar",
+        "normalized": "morar",
+        "timestamp": "2023-01-29"
+    },
+    {
+        "word": "ambas",
+        "normalized": "ambas",
+        "timestamp": "2023-01-30"
+    },
+    {
+        "word": "moção",
+        "normalized": "mocao",
+        "timestamp": "2023-01-31"
+    },
+    {
+        "word": "frase",
+        "normalized": "frase",
+        "timestamp": "2023-02-01"
+    },
+    {
+        "word": "vírus",
+        "normalized": "virus",
+        "timestamp": "2023-02-02"
+    },
+    {
+        "word": "peste",
+        "normalized": "peste",
+        "timestamp": "2023-02-03"
+    },
+    {
+        "word": "massa",
+        "normalized": "massa",
+        "timestamp": "2023-02-04"
+    },
+    {
+        "word": "entre",
+        "normalized": "entre",
+        "timestamp": "2023-02-05"
+    },
+    {
+        "word": "casto",
+        "normalized": "casto",
+        "timestamp": "2023-02-06"
+    },
+    {
+        "word": "coçar",
+        "normalized": "cocar",
+        "timestamp": "2023-02-07"
+    },
+    {
+        "word": "pouco",
+        "normalized": "pouco",
+        "timestamp": "2023-02-08"
+    },
+    {
+        "word": "covil",
+        "normalized": "covil",
+        "timestamp": "2023-02-09"
+    },
+    {
+        "word": "coesa",
+        "normalized": "coesa",
+        "timestamp": "2023-02-10"
+    },
+    {
+        "word": "fauna",
+        "normalized": "fauna",
+        "timestamp": "2023-02-11"
+    },
+    {
+        "word": "faina",
+        "normalized": "faina",
+        "timestamp": "2023-02-12"
+    },
+    {
+        "word": "signo",
+        "normalized": "signo",
+        "timestamp": "2023-02-13"
+    },
+    {
+        "word": "sente",
+        "normalized": "sente",
+        "timestamp": "2023-02-14"
+    },
+    {
+        "word": "preso",
+        "normalized": "preso",
+        "timestamp": "2023-02-15"
+    },
+    {
+        "word": "furor",
+        "normalized": "furor",
+        "timestamp": "2023-02-16"
+    },
+    {
+        "word": "credo",
+        "normalized": "credo",
+        "timestamp": "2023-02-17"
+    },
+    {
+        "word": "dócil",
+        "normalized": "docil",
+        "timestamp": "2023-02-18"
+    },
+    {
+        "word": "feito",
+        "normalized": "feito",
+        "timestamp": "2023-02-19"
+    },
+    {
+        "word": "lazer",
+        "normalized": "lazer",
+        "timestamp": "2023-02-20"
+    },
+    {
+        "word": "minha",
+        "normalized": "minha",
+        "timestamp": "2023-02-21"
+    },
+    {
+        "word": "vetor",
+        "normalized": "vetor",
+        "timestamp": "2023-02-22"
+    },
+    {
+        "word": "árido",
+        "normalized": "arido",
+        "timestamp": "2023-02-23"
+    },
+    {
+        "word": "flora",
+        "normalized": "flora",
+        "timestamp": "2023-02-24"
+    },
+    {
+        "word": "raiva",
+        "normalized": "raiva",
+        "timestamp": "2023-02-25"
+    },
+    {
+        "word": "aceso",
+        "normalized": "aceso",
+        "timestamp": "2023-02-26"
+    },
+    {
+        "word": "ciclo",
+        "normalized": "ciclo",
+        "timestamp": "2023-02-27"
+    },
+    {
+        "word": "ímpar",
+        "normalized": "impar",
+        "timestamp": "2023-02-28"
+    },
+    {
+        "word": "maior",
+        "normalized": "maior",
+        "timestamp": "2023-03-01"
+    },
+    {
+        "word": "chata",
+        "normalized": "chata",
+        "timestamp": "2023-03-02"
+    },
+    {
+        "word": "torço",
+        "normalized": "torco",
+        "timestamp": "2023-03-03"
+    },
+    {
+        "word": "beata",
+        "normalized": "beata",
+        "timestamp": "2023-03-04"
+    },
+    {
+        "word": "vulto",
+        "normalized": "vulto",
+        "timestamp": "2023-03-05"
+    },
+    {
+        "word": "brisa",
+        "normalized": "brisa",
+        "timestamp": "2023-03-06"
+    },
+    {
+        "word": "houve",
+        "normalized": "houve",
+        "timestamp": "2023-03-07"
+    },
+    {
+        "word": "trama",
+        "normalized": "trama",
+        "timestamp": "2023-03-08"
+    },
+    {
+        "word": "breve",
+        "normalized": "breve",
+        "timestamp": "2023-03-09"
+    },
+    {
+        "word": "papel",
+        "normalized": "papel",
+        "timestamp": "2023-03-10"
+    },
+    {
+        "word": "vasto",
+        "normalized": "vasto",
+        "timestamp": "2023-03-11"
+    },
+    {
+        "word": "liame",
+        "normalized": "liame",
+        "timestamp": "2023-03-12"
+    },
+    {
+        "word": "setor",
+        "normalized": "setor",
+        "timestamp": "2023-03-13"
+    },
+    {
+        "word": "adeus",
+        "normalized": "adeus",
+        "timestamp": "2023-03-14"
+    },
+    {
+        "word": "pegar",
+        "normalized": "pegar",
+        "timestamp": "2023-03-15"
+    },
+    {
+        "word": "manha",
+        "normalized": "manha",
+        "timestamp": "2023-03-16"
+    },
+    {
+        "word": "salvo",
+        "normalized": "salvo",
+        "timestamp": "2023-03-17"
+    },
+    {
+        "word": "senda",
+        "normalized": "senda",
+        "timestamp": "2023-03-18"
+    },
+    {
+        "word": "ardor",
+        "normalized": "ardor",
+        "timestamp": "2023-03-19"
+    },
+    {
+        "word": "seita",
+        "normalized": "seita",
+        "timestamp": "2023-03-20"
+    },
+    {
+        "word": "banzo",
+        "normalized": "banzo",
+        "timestamp": "2023-03-21"
+    },
+    {
+        "word": "morro",
+        "normalized": "morro",
+        "timestamp": "2023-03-22"
+    },
+    {
+        "word": "pecha",
+        "normalized": "pecha",
+        "timestamp": "2023-03-23"
+    },
+    {
+        "word": "átomo",
+        "normalized": "atomo",
+        "timestamp": "2023-03-24"
+    },
+    {
+        "word": "prado",
+        "normalized": "prado",
+        "timestamp": "2023-03-25"
+    },
+    {
+        "word": "visse",
+        "normalized": "visse",
+        "timestamp": "2023-03-26"
+    },
+    {
+        "word": "reger",
+        "normalized": "reger",
+        "timestamp": "2023-03-27"
+    },
+    {
+        "word": "antro",
+        "normalized": "antro",
+        "timestamp": "2023-03-28"
+    },
+    {
+        "word": "blasé",
+        "normalized": "blase",
+        "timestamp": "2023-03-29"
+    },
+    {
+        "word": "avaro",
+        "normalized": "avaro",
+        "timestamp": "2023-03-30"
+    },
+    {
+        "word": "segue",
+        "normalized": "segue",
+        "timestamp": "2023-03-31"
+    },
+    {
+        "word": "livro",
+        "normalized": "livro",
+        "timestamp": "2023-04-01"
+    },
+    {
+        "word": "nossa",
+        "normalized": "nossa",
+        "timestamp": "2023-04-02"
+    },
+    {
+        "word": "anciã",
+        "normalized": "ancia",
+        "timestamp": "2023-04-03"
+    },
+    {
+        "word": "comer",
+        "normalized": "comer",
+        "timestamp": "2023-04-04"
+    },
+    {
+        "word": "ocaso",
+        "normalized": "ocaso",
+        "timestamp": "2023-04-05"
+    },
+    {
+        "word": "plano",
+        "normalized": "plano",
+        "timestamp": "2023-04-06"
+    },
+    {
+        "word": "peixe",
+        "normalized": "peixe",
+        "timestamp": "2023-04-07"
+    },
+    {
+        "word": "rezar",
+        "normalized": "rezar",
+        "timestamp": "2023-04-08"
+    },
+    {
+        "word": "áureo",
+        "normalized": "aureo",
+        "timestamp": "2023-04-09"
+    },
+    {
+        "word": "saiba",
+        "normalized": "saiba",
+        "timestamp": "2023-04-10"
+    },
+    {
+        "word": "ótimo",
+        "normalized": "otimo",
+        "timestamp": "2023-04-11"
+    },
+    {
+        "word": "saída",
+        "normalized": "saida",
+        "timestamp": "2023-04-12"
+    },
+    {
+        "word": "aliás",
+        "normalized": "alias",
+        "timestamp": "2023-04-13"
+    },
+    {
+        "word": "meses",
+        "normalized": "meses",
+        "timestamp": "2023-04-14"
+    },
+    {
+        "word": "acima",
+        "normalized": "acima",
+        "timestamp": "2023-04-15"
+    },
+    {
+        "word": "sorte",
+        "normalized": "sorte",
+        "timestamp": "2023-04-16"
+    },
+    {
+        "word": "chulo",
+        "normalized": "chulo",
+        "timestamp": "2023-04-17"
+    },
+    {
+        "word": "junto",
+        "normalized": "junto",
+        "timestamp": "2023-04-18"
+    },
+    {
+        "word": "nunca",
+        "normalized": "nunca",
+        "timestamp": "2023-04-19"
+    },
+    {
+        "word": "fitar",
+        "normalized": "fitar",
+        "timestamp": "2023-04-20"
+    },
+    {
+        "word": "chuva",
+        "normalized": "chuva",
+        "timestamp": "2023-04-21"
+    },
+    {
+        "word": "opção",
+        "normalized": "opcao",
+        "timestamp": "2023-04-22"
+    },
+    {
+        "word": "jazia",
+        "normalized": "jazia",
+        "timestamp": "2023-04-23"
+    },
+    {
+        "word": "serão",
+        "normalized": "serao",
+        "timestamp": "2023-04-24"
+    },
+    {
+        "word": "mudar",
+        "normalized": "mudar",
+        "timestamp": "2023-04-25"
+    },
+    {
+        "word": "fruir",
+        "normalized": "fruir",
+        "timestamp": "2023-04-26"
+    },
+    {
+        "word": "pajem",
+        "normalized": "pajem",
+        "timestamp": "2023-04-27"
+    },
+    {
+        "word": "parar",
+        "normalized": "parar",
+        "timestamp": "2023-04-28"
+    },
+    {
+        "word": "bando",
+        "normalized": "bando",
+        "timestamp": "2023-04-29"
+    },
+    {
+        "word": "treta",
+        "normalized": "treta",
+        "timestamp": "2023-04-30"
+    },
+    {
+        "word": "fugir",
+        "normalized": "fugir",
+        "timestamp": "2023-05-01"
+    },
+    {
+        "word": "motim",
+        "normalized": "motim",
+        "timestamp": "2023-05-02"
+    },
+    {
+        "word": "gerir",
+        "normalized": "gerir",
+        "timestamp": "2023-05-03"
+    },
+    {
+        "word": "prazo",
+        "normalized": "prazo",
+        "timestamp": "2023-05-04"
+    },
+    {
+        "word": "nação",
+        "normalized": "nacao",
+        "timestamp": "2023-05-05"
+    },
+    {
+        "word": "séria",
+        "normalized": "seria",
+        "timestamp": "2023-05-06"
+    },
+    {
+        "word": "carro",
+        "normalized": "carro",
+        "timestamp": "2023-05-07"
+    },
+    {
+        "word": "alude",
+        "normalized": "alude",
+        "timestamp": "2023-05-08"
+    },
+    {
+        "word": "tosco",
+        "normalized": "tosco",
+        "timestamp": "2023-05-09"
+    },
+    {
+        "word": "leite",
+        "normalized": "leite",
+        "timestamp": "2023-05-10"
+    },
+    {
+        "word": "sinhá",
+        "normalized": "sinha",
+        "timestamp": "2023-05-11"
+    },
+    {
+        "word": "norma",
+        "normalized": "norma",
+        "timestamp": "2023-05-12"
+    },
+    {
+        "word": "andar",
+        "normalized": "andar",
+        "timestamp": "2023-05-13"
+    },
+    {
+        "word": "época",
+        "normalized": "epoca",
+        "timestamp": "2023-05-14"
+    },
+    {
+        "word": "grupo",
+        "normalized": "grupo",
+        "timestamp": "2023-05-15"
+    },
+    {
+        "word": "brava",
+        "normalized": "brava",
+        "timestamp": "2023-05-16"
+    },
+    {
+        "word": "tenso",
+        "normalized": "tenso",
+        "timestamp": "2023-05-17"
+    },
+    {
+        "word": "exame",
+        "normalized": "exame",
+        "timestamp": "2023-05-18"
+    },
+    {
+        "word": "arcar",
+        "normalized": "arcar",
+        "timestamp": "2023-05-19"
+    },
+    {
+        "word": "rapaz",
+        "normalized": "rapaz",
+        "timestamp": "2023-05-20"
+    },
+    {
+        "word": "avião",
+        "normalized": "aviao",
+        "timestamp": "2023-05-21"
+    },
+    {
+        "word": "ídolo",
+        "normalized": "idolo",
+        "timestamp": "2023-05-22"
+    },
+    {
+        "word": "lenda",
+        "normalized": "lenda",
+        "timestamp": "2023-05-23"
+    },
+    {
+        "word": "venal",
+        "normalized": "venal",
+        "timestamp": "2023-05-24"
+    },
+    {
+        "word": "soldo",
+        "normalized": "soldo",
+        "timestamp": "2023-05-25"
+    },
+    {
+        "word": "tirar",
+        "normalized": "tirar",
+        "timestamp": "2023-05-26"
+    },
+    {
+        "word": "parte",
+        "normalized": "parte",
+        "timestamp": "2023-05-27"
+    },
+    {
+        "word": "virão",
+        "normalized": "virao",
+        "timestamp": "2023-05-28"
+    },
+    {
+        "word": "reino",
+        "normalized": "reino",
+        "timestamp": "2023-05-29"
+    },
+    {
+        "word": "campo",
+        "normalized": "campo",
+        "timestamp": "2023-05-30"
+    },
+    {
+        "word": "quota",
+        "normalized": "quota",
+        "timestamp": "2023-05-31"
+    },
+    {
+        "word": "praga",
+        "normalized": "praga",
+        "timestamp": "2023-06-01"
+    },
+    {
+        "word": "malta",
+        "normalized": "malta",
+        "timestamp": "2023-06-02"
+    },
+    {
+        "word": "exijo",
+        "normalized": "exijo",
+        "timestamp": "2023-06-03"
+    },
+    {
+        "word": "sumir",
+        "normalized": "sumir",
+        "timestamp": "2023-06-04"
+    },
+    {
+        "word": "pompa",
+        "normalized": "pompa",
+        "timestamp": "2023-06-05"
+    },
+    {
+        "word": "aonde",
+        "normalized": "aonde",
+        "timestamp": "2023-06-06"
+    },
+    {
+        "word": "logro",
+        "normalized": "logro",
+        "timestamp": "2023-06-07"
+    },
+    {
+        "word": "traga",
+        "normalized": "traga",
+        "timestamp": "2023-06-08"
+    },
+    {
+        "word": "vilão",
+        "normalized": "vilao",
+        "timestamp": "2023-06-09"
+    },
+    {
+        "word": "fixar",
+        "normalized": "fixar",
+        "timestamp": "2023-06-10"
+    },
+    {
+        "word": "preto",
+        "normalized": "preto",
+        "timestamp": "2023-06-11"
+    },
+    {
+        "word": "anais",
+        "normalized": "anais",
+        "timestamp": "2023-06-12"
+    },
+    {
+        "word": "voraz",
+        "normalized": "voraz",
+        "timestamp": "2023-06-13"
+    },
+    {
+        "word": "corpo",
+        "normalized": "corpo",
+        "timestamp": "2023-06-14"
+    },
+    {
+        "word": "antes",
+        "normalized": "antes",
+        "timestamp": "2023-06-15"
+    },
+    {
+        "word": "quase",
+        "normalized": "quase",
+        "timestamp": "2023-06-16"
+    },
+    {
+        "word": "solto",
+        "normalized": "solto",
+        "timestamp": "2023-06-17"
+    },
+    {
+        "word": "cheio",
+        "normalized": "cheio",
+        "timestamp": "2023-06-18"
+    },
+    {
+        "word": "turva",
+        "normalized": "turva",
+        "timestamp": "2023-06-19"
+    },
+    {
+        "word": "nódoa",
+        "normalized": "nodoa",
+        "timestamp": "2023-06-20"
+    },
+    {
+        "word": "agora",
+        "normalized": "agora",
+        "timestamp": "2023-06-21"
+    },
+    {
+        "word": "certa",
+        "normalized": "certa",
+        "timestamp": "2023-06-22"
+    },
+    {
+        "word": "cópia",
+        "normalized": "copia",
+        "timestamp": "2023-06-23"
+    },
+    {
+        "word": "oásis",
+        "normalized": "oasis",
+        "timestamp": "2023-06-24"
+    },
+    {
+        "word": "turba",
+        "normalized": "turba",
+        "timestamp": "2023-06-25"
+    },
+    {
+        "word": "alado",
+        "normalized": "alado",
+        "timestamp": "2023-06-26"
+    },
+    {
+        "word": "risco",
+        "normalized": "risco",
+        "timestamp": "2023-06-27"
+    },
+    {
+        "word": "apego",
+        "normalized": "apego",
+        "timestamp": "2023-06-28"
+    },
+    {
+        "word": "parva",
+        "normalized": "parva",
+        "timestamp": "2023-06-29"
+    },
+    {
+        "word": "filho",
+        "normalized": "filho",
+        "timestamp": "2023-06-30"
+    },
+    {
+        "word": "messe",
+        "normalized": "messe",
+        "timestamp": "2023-07-01"
+    },
+    {
+        "word": "índio",
+        "normalized": "indio",
+        "timestamp": "2023-07-02"
+    },
+    {
+        "word": "grave",
+        "normalized": "grave",
+        "timestamp": "2023-07-03"
+    },
+    {
+        "word": "doído",
+        "normalized": "doido",
+        "timestamp": "2023-07-04"
+    },
+    {
+        "word": "caixa",
+        "normalized": "caixa",
+        "timestamp": "2023-07-05"
+    },
+    {
+        "word": "praia",
+        "normalized": "praia",
+        "timestamp": "2023-07-06"
+    },
+    {
+        "word": "estão",
+        "normalized": "estao",
+        "timestamp": "2023-07-07"
+    },
+    {
+        "word": "acesa",
+        "normalized": "acesa",
+        "timestamp": "2023-07-08"
+    },
+    {
+        "word": "prova",
+        "normalized": "prova",
+        "timestamp": "2023-07-09"
+    },
+    {
+        "word": "verve",
+        "normalized": "verve",
+        "timestamp": "2023-07-10"
+    },
+    {
+        "word": "apelo",
+        "normalized": "apelo",
+        "timestamp": "2023-07-11"
+    },
+    {
+        "word": "nível",
+        "normalized": "nivel",
+        "timestamp": "2023-07-12"
+    },
+    {
+        "word": "pardo",
+        "normalized": "pardo",
+        "timestamp": "2023-07-13"
+    },
+    {
+        "word": "psico",
+        "normalized": "psico",
+        "timestamp": "2023-07-14"
+    },
+    {
+        "word": "texto",
+        "normalized": "texto",
+        "timestamp": "2023-07-15"
+    },
+    {
+        "word": "fenda",
+        "normalized": "fenda",
+        "timestamp": "2023-07-16"
+    },
+    {
+        "word": "ligar",
+        "normalized": "ligar",
+        "timestamp": "2023-07-17"
+    },
+    {
+        "word": "trupe",
+        "normalized": "trupe",
+        "timestamp": "2023-07-18"
+    },
+    {
+        "word": "retém",
+        "normalized": "retem",
+        "timestamp": "2023-07-19"
+    },
+    {
+        "word": "tocar",
+        "normalized": "tocar",
+        "timestamp": "2023-07-20"
+    },
+    {
+        "word": "átrio",
+        "normalized": "atrio",
+        "timestamp": "2023-07-21"
+    },
+    {
+        "word": "viria",
+        "normalized": "viria",
+        "timestamp": "2023-07-22"
+    },
+    {
+        "word": "lindo",
+        "normalized": "lindo",
+        "timestamp": "2023-07-23"
+    },
+    {
+        "word": "dessa",
+        "normalized": "dessa",
+        "timestamp": "2023-07-24"
+    },
+    {
+        "word": "sabia",
+        "normalized": "sabia",
+        "timestamp": "2023-07-25"
+    },
+    {
+        "word": "alçar",
+        "normalized": "alcar",
+        "timestamp": "2023-07-26"
+    },
+    {
+        "word": "ficha",
+        "normalized": "ficha",
+        "timestamp": "2023-07-27"
+    },
+    {
+        "word": "navio",
+        "normalized": "navio",
+        "timestamp": "2023-07-28"
+    },
+    {
+        "word": "opaco",
+        "normalized": "opaco",
+        "timestamp": "2023-07-29"
+    },
+    {
+        "word": "livre",
+        "normalized": "livre",
+        "timestamp": "2023-07-30"
+    },
+    {
+        "word": "áurea",
+        "normalized": "aurea",
+        "timestamp": "2023-07-31"
+    },
+    {
+        "word": "astro",
+        "normalized": "astro",
+        "timestamp": "2023-08-01"
+    },
+    {
+        "word": "supra",
+        "normalized": "supra",
+        "timestamp": "2023-08-02"
+    },
+    {
+        "word": "fraco",
+        "normalized": "fraco",
+        "timestamp": "2023-08-03"
+    },
+    {
+        "word": "ético",
+        "normalized": "etico",
+        "timestamp": "2023-08-04"
+    },
+    {
+        "word": "afora",
+        "normalized": "afora",
+        "timestamp": "2023-08-05"
+    },
+    {
+        "word": "verba",
+        "normalized": "verba",
+        "timestamp": "2023-08-06"
+    },
+    {
+        "word": "faixa",
+        "normalized": "faixa",
+        "timestamp": "2023-08-07"
+    },
+    {
+        "word": "elite",
+        "normalized": "elite",
+        "timestamp": "2023-08-08"
+    },
+    {
+        "word": "cioso",
+        "normalized": "cioso",
+        "timestamp": "2023-08-09"
+    },
+    {
+        "word": "glosa",
+        "normalized": "glosa",
+        "timestamp": "2023-08-10"
+    },
+    {
+        "word": "parca",
+        "normalized": "parca",
+        "timestamp": "2023-08-11"
+    },
+    {
+        "word": "conta",
+        "normalized": "conta",
+        "timestamp": "2023-08-12"
+    },
+    {
+        "word": "autor",
+        "normalized": "autor",
+        "timestamp": "2023-08-13"
+    },
+    {
+        "word": "lidar",
+        "normalized": "lidar",
+        "timestamp": "2023-08-14"
+    },
+    {
+        "word": "mente",
+        "normalized": "mente",
+        "timestamp": "2023-08-15"
+    },
+    {
+        "word": "firme",
+        "normalized": "firme",
+        "timestamp": "2023-08-16"
+    },
+    {
+        "word": "grata",
+        "normalized": "grata",
+        "timestamp": "2023-08-17"
+    },
+    {
+        "word": "tinha",
+        "normalized": "tinha",
+        "timestamp": "2023-08-18"
+    },
+    {
+        "word": "verbo",
+        "normalized": "verbo",
+        "timestamp": "2023-08-19"
+    },
+    {
+        "word": "calda",
+        "normalized": "calda",
+        "timestamp": "2023-08-20"
+    },
+    {
+        "word": "bater",
+        "normalized": "bater",
+        "timestamp": "2023-08-21"
+    },
+    {
+        "word": "privê",
+        "normalized": "prive",
+        "timestamp": "2023-08-22"
+    },
+    {
+        "word": "fatal",
+        "normalized": "fatal",
+        "timestamp": "2023-08-23"
+    },
+    {
+        "word": "fatos",
+        "normalized": "fatos",
+        "timestamp": "2023-08-24"
+    },
+    {
+        "word": "cousa",
+        "normalized": "cousa",
+        "timestamp": "2023-08-25"
+    },
+    {
+        "word": "oxalá",
+        "normalized": "oxala",
+        "timestamp": "2023-08-26"
+    },
+    {
+        "word": "reses",
+        "normalized": "reses",
+        "timestamp": "2023-08-27"
+    },
+    {
+        "word": "magia",
+        "normalized": "magia",
+        "timestamp": "2023-08-28"
+    },
+    {
+        "word": "junco",
+        "normalized": "junco",
+        "timestamp": "2023-08-29"
+    },
+    {
+        "word": "jirau",
+        "normalized": "jirau",
+        "timestamp": "2023-08-30"
+    },
+    {
+        "word": "molho",
+        "normalized": "molho",
+        "timestamp": "2023-08-31"
+    },
+    {
+        "word": "irmão",
+        "normalized": "irmao",
+        "timestamp": "2023-09-01"
+    },
+    {
+        "word": "turvo",
+        "normalized": "turvo",
+        "timestamp": "2023-09-02"
+    },
+    {
+        "word": "macio",
+        "normalized": "macio",
+        "timestamp": "2023-09-03"
+    },
+    {
+        "word": "douto",
+        "normalized": "douto",
+        "timestamp": "2023-09-04"
+    },
+    {
+        "word": "deixa",
+        "normalized": "deixa",
+        "timestamp": "2023-09-05"
+    },
+    {
+        "word": "torso",
+        "normalized": "torso",
+        "timestamp": "2023-09-06"
+    },
+    {
+        "word": "pagão",
+        "normalized": "pagao",
+        "timestamp": "2023-09-07"
+    },
+    {
+        "word": "salve",
+        "normalized": "salve",
+        "timestamp": "2023-09-08"
+    },
+    {
+        "word": "abriu",
+        "normalized": "abriu",
+        "timestamp": "2023-09-09"
+    },
+    {
+        "word": "supor",
+        "normalized": "supor",
+        "timestamp": "2023-09-10"
+    },
+    {
+        "word": "pique",
+        "normalized": "pique",
+        "timestamp": "2023-09-11"
+    },
+    {
+        "word": "ígneo",
+        "normalized": "igneo",
+        "timestamp": "2023-09-12"
+    },
+    {
+        "word": "atual",
+        "normalized": "atual",
+        "timestamp": "2023-09-13"
+    },
+    {
+        "word": "asilo",
+        "normalized": "asilo",
+        "timestamp": "2023-09-14"
+    },
+    {
+        "word": "light",
+        "normalized": "light",
+        "timestamp": "2023-09-15"
+    },
+    {
+        "word": "rouca",
+        "normalized": "rouca",
+        "timestamp": "2023-09-16"
+    },
+    {
+        "word": "festa",
+        "normalized": "festa",
+        "timestamp": "2023-09-17"
+    },
+    {
+        "word": "órfão",
+        "normalized": "orfao",
+        "timestamp": "2023-09-18"
+    },
+    {
+        "word": "posto",
+        "normalized": "posto",
+        "timestamp": "2023-09-19"
+    },
+    {
+        "word": "caber",
+        "normalized": "caber",
+        "timestamp": "2023-09-20"
+    },
+    {
+        "word": "extra",
+        "normalized": "extra",
+        "timestamp": "2023-09-21"
+    },
+    {
+        "word": "curso",
+        "normalized": "curso",
+        "timestamp": "2023-09-22"
+    },
+    {
+        "word": "besta",
+        "normalized": "besta",
+        "timestamp": "2023-09-23"
+    },
+    {
+        "word": "locus",
+        "normalized": "locus",
+        "timestamp": "2023-09-24"
+    },
+    {
+        "word": "ruína",
+        "normalized": "ruina",
+        "timestamp": "2023-09-25"
+    },
+    {
+        "word": "sexta",
+        "normalized": "sexta",
+        "timestamp": "2023-09-26"
+    },
+    {
+        "word": "judeu",
+        "normalized": "judeu",
+        "timestamp": "2023-09-27"
+    },
+    {
+        "word": "manhã",
+        "normalized": "manha",
+        "timestamp": "2023-09-28"
+    },
+    {
+        "word": "paira",
+        "normalized": "paira",
+        "timestamp": "2023-09-29"
+    },
+    {
+        "word": "zelar",
+        "normalized": "zelar",
+        "timestamp": "2023-09-30"
+    },
+    {
+        "word": "vezes",
+        "normalized": "vezes",
+        "timestamp": "2023-10-01"
+    },
+    {
+        "word": "ereto",
+        "normalized": "ereto",
+        "timestamp": "2023-10-02"
+    },
+    {
+        "word": "desta",
+        "normalized": "desta",
+        "timestamp": "2023-10-03"
+    },
+    {
+        "word": "finda",
+        "normalized": "finda",
+        "timestamp": "2023-10-04"
+    },
+    {
+        "word": "sarça",
+        "normalized": "sarca",
+        "timestamp": "2023-10-05"
+    },
+    {
+        "word": "vídeo",
+        "normalized": "video",
+        "timestamp": "2023-10-06"
+    },
+    {
+        "word": "rádio",
+        "normalized": "radio",
+        "timestamp": "2023-10-07"
+    },
+    {
+        "word": "bioma",
+        "normalized": "bioma",
+        "timestamp": "2023-10-08"
+    },
+    {
+        "word": "combo",
+        "normalized": "combo",
+        "timestamp": "2023-10-09"
+    },
+    {
+        "word": "feudo",
+        "normalized": "feudo",
+        "timestamp": "2023-10-10"
+    },
+    {
+        "word": "agudo",
+        "normalized": "agudo",
+        "timestamp": "2023-10-11"
+    },
+    {
+        "word": "tetra",
+        "normalized": "tetra",
+        "timestamp": "2023-10-12"
+    },
+    {
+        "word": "facto",
+        "normalized": "facto",
+        "timestamp": "2023-10-13"
+    },
+    {
+        "word": "culpa",
+        "normalized": "culpa",
+        "timestamp": "2023-10-14"
+    },
+    {
+        "word": "vinha",
+        "normalized": "vinha",
+        "timestamp": "2023-10-15"
+    },
+    {
+        "word": "porta",
+        "normalized": "porta",
+        "timestamp": "2023-10-16"
+    },
+    {
+        "word": "menos",
+        "normalized": "menos",
+        "timestamp": "2023-10-17"
+    },
+    {
+        "word": "urgia",
+        "normalized": "urgia",
+        "timestamp": "2023-10-18"
+    },
+    {
+        "word": "vosso",
+        "normalized": "vosso",
+        "timestamp": "2023-10-19"
+    },
+    {
+        "word": "longe",
+        "normalized": "longe",
+        "timestamp": "2023-10-20"
+    },
+    {
+        "word": "cútis",
+        "normalized": "cutis",
+        "timestamp": "2023-10-21"
+    },
+    {
+        "word": "surja",
+        "normalized": "surja",
+        "timestamp": "2023-10-22"
+    },
+    {
+        "word": "advir",
+        "normalized": "advir",
+        "timestamp": "2023-10-23"
+    },
+    {
+        "word": "meigo",
+        "normalized": "meigo",
+        "timestamp": "2023-10-24"
+    },
+    {
+        "word": "traço",
+        "normalized": "traco",
+        "timestamp": "2023-10-25"
+    },
+    {
+        "word": "bônus",
+        "normalized": "bonus",
+        "timestamp": "2023-10-26"
+    },
+    {
+        "word": "autos",
+        "normalized": "autos",
+        "timestamp": "2023-10-27"
+    },
+    {
+        "word": "tento",
+        "normalized": "tento",
+        "timestamp": "2023-10-28"
+    },
+    {
+        "word": "super",
+        "normalized": "super",
+        "timestamp": "2023-10-29"
+    },
+    {
+        "word": "sítio",
+        "normalized": "sitio",
+        "timestamp": "2023-10-30"
+    },
+    {
+        "word": "cânon",
+        "normalized": "canon",
+        "timestamp": "2023-10-31"
+    },
+    {
+        "word": "cocho",
+        "normalized": "cocho",
+        "timestamp": "2023-11-01"
+    },
+    {
+        "word": "drops",
+        "normalized": "drops",
+        "timestamp": "2023-11-02"
+    },
+    {
+        "word": "facho",
+        "normalized": "facho",
+        "timestamp": "2023-11-03"
+    },
+    {
+        "word": "rumor",
+        "normalized": "rumor",
+        "timestamp": "2023-11-04"
+    },
+    {
+        "word": "museu",
+        "normalized": "museu",
+        "timestamp": "2023-11-05"
+    },
+    {
+        "word": "pilar",
+        "normalized": "pilar",
+        "timestamp": "2023-11-06"
+    },
+    {
+        "word": "suave",
+        "normalized": "suave",
+        "timestamp": "2023-11-07"
+    },
+    {
+        "word": "clean",
+        "normalized": "clean",
+        "timestamp": "2023-11-08"
+    },
+    {
+        "word": "lasso",
+        "normalized": "lasso",
+        "timestamp": "2023-11-09"
+    },
+    {
+        "word": "geral",
+        "normalized": "geral",
+        "timestamp": "2023-11-10"
+    },
+    {
+        "word": "amena",
+        "normalized": "amena",
+        "timestamp": "2023-11-11"
+    },
+    {
+        "word": "acolá",
+        "normalized": "acola",
+        "timestamp": "2023-11-12"
+    },
+    {
+        "word": "optar",
+        "normalized": "optar",
+        "timestamp": "2023-11-13"
+    },
+    {
+        "word": "medir",
+        "normalized": "medir",
+        "timestamp": "2023-11-14"
+    },
+    {
+        "word": "penta",
+        "normalized": "penta",
+        "timestamp": "2023-11-15"
+    },
+    {
+        "word": "turma",
+        "normalized": "turma",
+        "timestamp": "2023-11-16"
+    },
+    {
+        "word": "boato",
+        "normalized": "boato",
+        "timestamp": "2023-11-17"
+    },
+    {
+        "word": "pífia",
+        "normalized": "pifia",
+        "timestamp": "2023-11-18"
+    },
+    {
+        "word": "ações",
+        "normalized": "acoes",
+        "timestamp": "2023-11-19"
+    },
+    {
+        "word": "chama",
+        "normalized": "chama",
+        "timestamp": "2023-11-20"
+    },
+    {
+        "word": "mosto",
+        "normalized": "mosto",
+        "timestamp": "2023-11-21"
+    },
+    {
+        "word": "rubro",
+        "normalized": "rubro",
+        "timestamp": "2023-11-22"
+    },
+    {
+        "word": "crime",
+        "normalized": "crime",
+        "timestamp": "2023-11-23"
+    },
+    {
+        "word": "letal",
+        "normalized": "letal",
+        "timestamp": "2023-11-24"
+    },
+    {
+        "word": "louça",
+        "normalized": "louca",
+        "timestamp": "2023-11-25"
+    },
+    {
+        "word": "pacto",
+        "normalized": "pacto",
+        "timestamp": "2023-11-26"
+    },
+    {
+        "word": "pódio",
+        "normalized": "podio",
+        "timestamp": "2023-11-27"
+    },
+    {
+        "word": "ponha",
+        "normalized": "ponha",
+        "timestamp": "2023-11-28"
+    },
+    {
+        "word": "lápis",
+        "normalized": "lapis",
+        "timestamp": "2023-11-29"
+    },
+    {
+        "word": "cover",
+        "normalized": "cover",
+        "timestamp": "2023-11-30"
+    },
+    {
+        "word": "local",
+        "normalized": "local",
+        "timestamp": "2023-12-01"
+    },
+    {
+        "word": "folga",
+        "normalized": "folga",
+        "timestamp": "2023-12-02"
+    },
+    {
+        "word": "nosso",
+        "normalized": "nosso",
+        "timestamp": "2023-12-03"
+    },
+    {
+        "word": "cacho",
+        "normalized": "cacho",
+        "timestamp": "2023-12-04"
+    },
+    {
+        "word": "hobby",
+        "normalized": "hobby",
+        "timestamp": "2023-12-05"
+    },
+    {
+        "word": "hoste",
+        "normalized": "hoste",
+        "timestamp": "2023-12-06"
+    },
+    {
+        "word": "aroma",
+        "normalized": "aroma",
+        "timestamp": "2023-12-07"
+    },
+    {
+        "word": "vigia",
+        "normalized": "vigia",
+        "timestamp": "2023-12-08"
+    },
+    {
+        "word": "vetar",
+        "normalized": "vetar",
+        "timestamp": "2023-12-09"
+    },
+    {
+        "word": "refém",
+        "normalized": "refem",
+        "timestamp": "2023-12-10"
+    },
+    {
+        "word": "finjo",
+        "normalized": "finjo",
+        "timestamp": "2023-12-11"
+    },
+    {
+        "word": "drama",
+        "normalized": "drama",
+        "timestamp": "2023-12-12"
+    },
+    {
+        "word": "fazia",
+        "normalized": "fazia",
+        "timestamp": "2023-12-13"
+    },
+    {
+        "word": "pasmo",
+        "normalized": "pasmo",
+        "timestamp": "2023-12-14"
+    },
+    {
+        "word": "açude",
+        "normalized": "acude",
+        "timestamp": "2023-12-15"
+    },
+    {
+        "word": "brabo",
+        "normalized": "brabo",
+        "timestamp": "2023-12-16"
+    },
+    {
+        "word": "feroz",
+        "normalized": "feroz",
+        "timestamp": "2023-12-17"
+    },
+    {
+        "word": "axila",
+        "normalized": "axila",
+        "timestamp": "2023-12-18"
+    },
+    {
+        "word": "rival",
+        "normalized": "rival",
+        "timestamp": "2023-12-19"
+    },
+    {
+        "word": "troça",
+        "normalized": "troca",
+        "timestamp": "2023-12-20"
+    },
+    {
+        "word": "móvel",
+        "normalized": "movel",
+        "timestamp": "2023-12-21"
+    },
+    {
+        "word": "mesma",
+        "normalized": "mesma",
+        "timestamp": "2023-12-22"
+    },
+    {
+        "word": "monte",
+        "normalized": "monte",
+        "timestamp": "2023-12-23"
+    },
+    {
+        "word": "poema",
+        "normalized": "poema",
+        "timestamp": "2023-12-24"
+    },
+    {
+        "word": "golpe",
+        "normalized": "golpe",
+        "timestamp": "2023-12-25"
+    },
+    {
+        "word": "ecoar",
+        "normalized": "ecoar",
+        "timestamp": "2023-12-26"
+    },
+    {
+        "word": "lesse",
+        "normalized": "lesse",
+        "timestamp": "2023-12-27"
+    },
+    {
+        "word": "metiê",
+        "normalized": "metie",
+        "timestamp": "2023-12-28"
+    },
+    {
+        "word": "riste",
+        "normalized": "riste",
+        "timestamp": "2023-12-29"
+    },
+    {
+        "word": "ávida",
+        "normalized": "avida",
+        "timestamp": "2023-12-30"
+    },
+    {
+        "word": "plebe",
+        "normalized": "plebe",
+        "timestamp": "2023-12-31"
+    },
+    {
+        "word": "fórum",
+        "normalized": "forum",
+        "timestamp": "2024-01-01"
+    },
+    {
+        "word": "súcia",
+        "normalized": "sucia",
+        "timestamp": "2024-01-02"
+    },
+    {
+        "word": "daqui",
+        "normalized": "daqui",
+        "timestamp": "2024-01-03"
+    },
+    {
+        "word": "lição",
+        "normalized": "licao",
+        "timestamp": "2024-01-04"
+    },
+    {
+        "word": "páreo",
+        "normalized": "pareo",
+        "timestamp": "2024-01-05"
+    },
+    {
+        "word": "coral",
+        "normalized": "coral",
+        "timestamp": "2024-01-06"
+    },
+    {
+        "word": "teste",
+        "normalized": "teste",
+        "timestamp": "2024-01-07"
+    },
+    {
+        "word": "forem",
+        "normalized": "forem",
+        "timestamp": "2024-01-08"
+    },
+    {
+        "word": "monge",
+        "normalized": "monge",
+        "timestamp": "2024-01-09"
+    },
+    {
+        "word": "aluno",
+        "normalized": "aluno",
+        "timestamp": "2024-01-10"
+    },
+    {
+        "word": "clima",
+        "normalized": "clima",
+        "timestamp": "2024-01-11"
+    },
+    {
+        "word": "viram",
+        "normalized": "viram",
+        "timestamp": "2024-01-12"
+    },
+    {
+        "word": "carta",
+        "normalized": "carta",
+        "timestamp": "2024-01-13"
+    },
+    {
+        "word": "ébano",
+        "normalized": "ebano",
+        "timestamp": "2024-01-14"
+    },
+    {
+        "word": "escol",
+        "normalized": "escol",
+        "timestamp": "2024-01-15"
+    },
+    {
+        "word": "macro",
+        "normalized": "macro",
+        "timestamp": "2024-01-16"
+    },
+    {
+        "word": "poeta",
+        "normalized": "poeta",
+        "timestamp": "2024-01-17"
+    },
+    {
+        "word": "venha",
+        "normalized": "venha",
+        "timestamp": "2024-01-18"
+    },
+    {
+        "word": "falha",
+        "normalized": "falha",
+        "timestamp": "2024-01-19"
+    },
+    {
+        "word": "légua",
+        "normalized": "legua",
+        "timestamp": "2024-01-20"
+    },
+    {
+        "word": "chato",
+        "normalized": "chato",
+        "timestamp": "2024-01-21"
+    },
+    {
+        "word": "sarau",
+        "normalized": "sarau",
+        "timestamp": "2024-01-22"
+    },
+    {
+        "word": "farta",
+        "normalized": "farta",
+        "timestamp": "2024-01-23"
+    },
+    {
+        "word": "briga",
+        "normalized": "briga",
+        "timestamp": "2024-01-24"
+    },
+    {
+        "word": "cargo",
+        "normalized": "cargo",
+        "timestamp": "2024-01-25"
+    },
+    {
+        "word": "cetro",
+        "normalized": "cetro",
+        "timestamp": "2024-01-26"
+    },
+    {
+        "word": "átimo",
+        "normalized": "atimo",
+        "timestamp": "2024-01-27"
+    },
+    {
+        "word": "ateia",
+        "normalized": "ateia",
+        "timestamp": "2024-01-28"
+    },
+    {
+        "word": "passa",
+        "normalized": "passa",
+        "timestamp": "2024-01-29"
+    },
+    {
+        "word": "fruto",
+        "normalized": "fruto",
+        "timestamp": "2024-01-30"
+    },
+    {
+        "word": "tacha",
+        "normalized": "tacha",
+        "timestamp": "2024-01-31"
+    },
+    {
+        "word": "perco",
+        "normalized": "perco",
+        "timestamp": "2024-02-01"
+    },
+    {
+        "word": "conto",
+        "normalized": "conto",
+        "timestamp": "2024-02-02"
+    },
+    {
+        "word": "plaga",
+        "normalized": "plaga",
+        "timestamp": "2024-02-03"
+    },
+    {
+        "word": "calmo",
+        "normalized": "calmo",
+        "timestamp": "2024-02-04"
+    },
+    {
+        "word": "idoso",
+        "normalized": "idoso",
+        "timestamp": "2024-02-05"
+    },
+    {
+        "word": "plumo",
+        "normalized": "plumo",
+        "timestamp": "2024-02-06"
+    },
+    {
+        "word": "busca",
+        "normalized": "busca",
+        "timestamp": "2024-02-07"
+    },
+    {
+        "word": "virar",
+        "normalized": "virar",
+        "timestamp": "2024-02-08"
+    },
+    {
+        "word": "piada",
+        "normalized": "piada",
+        "timestamp": "2024-02-09"
+    },
+    {
+        "word": "vento",
+        "normalized": "vento",
+        "timestamp": "2024-02-10"
+    },
+    {
+        "word": "roupa",
+        "normalized": "roupa",
+        "timestamp": "2024-02-11"
+    },
+    {
+        "word": "tarde",
+        "normalized": "tarde",
+        "timestamp": "2024-02-12"
+    },
+    {
+        "word": "assar",
+        "normalized": "assar",
+        "timestamp": "2024-02-13"
+    },
+    {
+        "word": "chefe",
+        "normalized": "chefe",
+        "timestamp": "2024-02-14"
+    },
+    {
+        "word": "arado",
+        "normalized": "arado",
+        "timestamp": "2024-02-15"
+    },
+    {
+        "word": "tribo",
+        "normalized": "tribo",
+        "timestamp": "2024-02-16"
+    },
+    {
+        "word": "aviso",
+        "normalized": "aviso",
+        "timestamp": "2024-02-17"
+    },
+    {
+        "word": "verde",
+        "normalized": "verde",
+        "timestamp": "2024-02-18"
+    },
+    {
+        "word": "surto",
+        "normalized": "surto",
+        "timestamp": "2024-02-19"
+    },
+    {
+        "word": "recém",
+        "normalized": "recem",
+        "timestamp": "2024-02-20"
+    },
+    {
+        "word": "grama",
+        "normalized": "grama",
+        "timestamp": "2024-02-21"
+    },
+    {
+        "word": "catre",
+        "normalized": "catre",
+        "timestamp": "2024-02-22"
+    },
+    {
+        "word": "seixo",
+        "normalized": "seixo",
+        "timestamp": "2024-02-23"
+    },
+    {
+        "word": "traje",
+        "normalized": "traje",
+        "timestamp": "2024-02-24"
+    },
+    {
+        "word": "ímpia",
+        "normalized": "impia",
+        "timestamp": "2024-02-25"
+    },
+    {
+        "word": "civil",
+        "normalized": "civil",
+        "timestamp": "2024-02-26"
+    },
+    {
+        "word": "ornar",
+        "normalized": "ornar",
+        "timestamp": "2024-02-27"
+    },
+    {
+        "word": "deste",
+        "normalized": "deste",
+        "timestamp": "2024-02-28"
+    },
+    {
+        "word": "bruta",
+        "normalized": "bruta",
+        "timestamp": "2024-02-29"
+    },
+    {
+        "word": "deram",
+        "normalized": "deram",
+        "timestamp": "2024-03-01"
+    },
+    {
+        "word": "saldo",
+        "normalized": "saldo",
+        "timestamp": "2024-03-02"
+    },
+    {
+        "word": "arfar",
+        "normalized": "arfar",
+        "timestamp": "2024-03-03"
+    },
+    {
+        "word": "fosso",
+        "normalized": "fosso",
+        "timestamp": "2024-03-04"
+    },
+    {
+        "word": "vedar",
+        "normalized": "vedar",
+        "timestamp": "2024-03-05"
+    },
+    {
+        "word": "trato",
+        "normalized": "trato",
+        "timestamp": "2024-03-06"
+    },
+    {
+        "word": "depor",
+        "normalized": "depor",
+        "timestamp": "2024-03-07"
+    },
+    {
+        "word": "troca",
+        "normalized": "troca",
+        "timestamp": "2024-03-08"
+    },
+    {
+        "word": "beijo",
+        "normalized": "beijo",
+        "timestamp": "2024-03-09"
+    },
+    {
+        "word": "nuvem",
+        "normalized": "nuvem",
+        "timestamp": "2024-03-10"
+    },
+    {
+        "word": "tição",
+        "normalized": "ticao",
+        "timestamp": "2024-03-11"
+    },
+    {
+        "word": "corso",
+        "normalized": "corso",
+        "timestamp": "2024-03-12"
+    },
+    {
+        "word": "irado",
+        "normalized": "irado",
+        "timestamp": "2024-03-13"
+    },
+    {
+        "word": "porte",
+        "normalized": "porte",
+        "timestamp": "2024-03-14"
+    },
+    {
+        "word": "pasma",
+        "normalized": "pasma",
+        "timestamp": "2024-03-15"
+    },
+    {
+        "word": "grota",
+        "normalized": "grota",
+        "timestamp": "2024-03-16"
+    },
+    {
+        "word": "canso",
+        "normalized": "canso",
+        "timestamp": "2024-03-17"
+    },
+    {
+        "word": "pedra",
+        "normalized": "pedra",
+        "timestamp": "2024-03-18"
+    },
+    {
+        "word": "âmbar",
+        "normalized": "ambar",
+        "timestamp": "2024-03-19"
+    },
+    {
+        "word": "úteis",
+        "normalized": "uteis",
+        "timestamp": "2024-03-20"
+    },
+    {
+        "word": "silvo",
+        "normalized": "silvo",
+        "timestamp": "2024-03-21"
+    },
+    {
+        "word": "cifra",
+        "normalized": "cifra",
+        "timestamp": "2024-03-22"
+    },
+    {
+        "word": "bazar",
+        "normalized": "bazar",
+        "timestamp": "2024-03-23"
+    },
+    {
+        "word": "gabar",
+        "normalized": "gabar",
+        "timestamp": "2024-03-24"
+    },
+    {
+        "word": "régio",
+        "normalized": "regio",
+        "timestamp": "2024-03-25"
+    },
+    {
+        "word": "júlia",
+        "normalized": "julia",
+        "timestamp": "2024-03-26"
+    },
+    {
+        "word": "segar",
+        "normalized": "segar",
+        "timestamp": "2024-03-27"
+    },
+    {
+        "word": "gíria",
+        "normalized": "giria",
+        "timestamp": "2024-03-28"
+    },
+    {
+        "word": "vazão",
+        "normalized": "vazao",
+        "timestamp": "2024-03-29"
+    },
+    {
+        "word": "casar",
+        "normalized": "casar",
+        "timestamp": "2024-03-30"
+    },
+    {
+        "word": "amado",
+        "normalized": "amado",
+        "timestamp": "2024-03-31"
+    },
+    {
+        "word": "pavor",
+        "normalized": "pavor",
+        "timestamp": "2024-04-01"
+    },
+    {
+        "word": "tutor",
+        "normalized": "tutor",
+        "timestamp": "2024-04-02"
+    },
+    {
+        "word": "laudo",
+        "normalized": "laudo",
+        "timestamp": "2024-04-03"
+    },
+    {
+        "word": "sósia",
+        "normalized": "sosia",
+        "timestamp": "2024-04-04"
+    },
+    {
+        "word": "bruto",
+        "normalized": "bruto",
+        "timestamp": "2024-04-05"
+    },
+    {
+        "word": "tiver",
+        "normalized": "tiver",
+        "timestamp": "2024-04-06"
+    },
+    {
+        "word": "bença",
+        "normalized": "benca",
+        "timestamp": "2024-04-07"
+    },
+    {
+        "word": "troco",
+        "normalized": "troco",
+        "timestamp": "2024-04-08"
+    },
+    {
+        "word": "magna",
+        "normalized": "magna",
+        "timestamp": "2024-04-09"
+    },
+    {
+        "word": "perto",
+        "normalized": "perto",
+        "timestamp": "2024-04-10"
+    },
+    {
+        "word": "rural",
+        "normalized": "rural",
+        "timestamp": "2024-04-11"
+    },
+    {
+        "word": "vagar",
+        "normalized": "vagar",
+        "timestamp": "2024-04-12"
+    },
+    {
+        "word": "molde",
+        "normalized": "molde",
+        "timestamp": "2024-04-13"
+    },
+    {
+        "word": "lesto",
+        "normalized": "lesto",
+        "timestamp": "2024-04-14"
+    },
+    {
+        "word": "mídia",
+        "normalized": "midia",
+        "timestamp": "2024-04-15"
+    },
+    {
+        "word": "tchau",
+        "normalized": "tchau",
+        "timestamp": "2024-04-16"
+    },
+    {
+        "word": "itens",
+        "normalized": "itens",
+        "timestamp": "2024-04-17"
+    },
+    {
+        "word": "única",
+        "normalized": "unica",
+        "timestamp": "2024-04-18"
+    },
+    {
+        "word": "minar",
+        "normalized": "minar",
+        "timestamp": "2024-04-19"
+    },
+    {
+        "word": "nesse",
+        "normalized": "nesse",
+        "timestamp": "2024-04-20"
+    },
+    {
+        "word": "artur",
+        "normalized": "artur",
+        "timestamp": "2024-04-21"
+    },
+    {
+        "word": "renda",
+        "normalized": "renda",
+        "timestamp": "2024-04-22"
+    },
+    {
+        "word": "odiar",
+        "normalized": "odiar",
+        "timestamp": "2024-04-23"
+    },
+    {
+        "word": "manga",
+        "normalized": "manga",
+        "timestamp": "2024-04-24"
+    },
+    {
+        "word": "vadio",
+        "normalized": "vadio",
+        "timestamp": "2024-04-25"
+    },
+    {
+        "word": "meche",
+        "normalized": "meche",
+        "timestamp": "2024-04-26"
+    },
+    {
+        "word": "fossa",
+        "normalized": "fossa",
+        "timestamp": "2024-04-27"
+    },
+    {
+        "word": "sótão",
+        "normalized": "sotao",
+        "timestamp": "2024-04-28"
+    },
+    {
+        "word": "clero",
+        "normalized": "clero",
+        "timestamp": "2024-04-29"
+    },
+    {
+        "word": "jejum",
+        "normalized": "jejum",
+        "timestamp": "2024-04-30"
+    },
+    {
+        "word": "inter",
+        "normalized": "inter",
+        "timestamp": "2024-05-01"
+    },
+    {
+        "word": "mangá",
+        "normalized": "manga",
+        "timestamp": "2024-05-02"
+    },
+    {
+        "word": "berro",
+        "normalized": "berro",
+        "timestamp": "2024-05-03"
+    },
+    {
+        "word": "feita",
+        "normalized": "feita",
+        "timestamp": "2024-05-04"
+    },
+    {
+        "word": "aviar",
+        "normalized": "aviar",
+        "timestamp": "2024-05-05"
+    },
+    {
+        "word": "paiol",
+        "normalized": "paiol",
+        "timestamp": "2024-05-06"
+    },
+    {
+        "word": "ileso",
+        "normalized": "ileso",
+        "timestamp": "2024-05-07"
+    },
+    {
+        "word": "negar",
+        "normalized": "negar",
+        "timestamp": "2024-05-08"
+    },
+    {
+        "word": "largo",
+        "normalized": "largo",
+        "timestamp": "2024-05-09"
+    },
+    {
+        "word": "pomar",
+        "normalized": "pomar",
+        "timestamp": "2024-05-10"
+    },
+    {
+        "word": "cinto",
+        "normalized": "cinto",
+        "timestamp": "2024-05-11"
+    },
+    {
+        "word": "órgão",
+        "normalized": "orgao",
+        "timestamp": "2024-05-12"
+    },
+    {
+        "word": "cenho",
+        "normalized": "cenho",
+        "timestamp": "2024-05-13"
+    },
+    {
+        "word": "lesão",
+        "normalized": "lesao",
+        "timestamp": "2024-05-14"
+    },
+    {
+        "word": "pugna",
+        "normalized": "pugna",
+        "timestamp": "2024-05-15"
+    },
+    {
+        "word": "canto",
+        "normalized": "canto",
+        "timestamp": "2024-05-16"
+    },
+    {
+        "word": "horto",
+        "normalized": "horto",
+        "timestamp": "2024-05-17"
+    },
+    {
+        "word": "visto",
+        "normalized": "visto",
+        "timestamp": "2024-05-18"
+    },
+    {
+        "word": "rocha",
+        "normalized": "rocha",
+        "timestamp": "2024-05-19"
+    },
+    {
+        "word": "amiga",
+        "normalized": "amiga",
+        "timestamp": "2024-05-20"
+    },
+    {
+        "word": "ruído",
+        "normalized": "ruido",
+        "timestamp": "2024-05-21"
+    },
+    {
+        "word": "podar",
+        "normalized": "podar",
+        "timestamp": "2024-05-22"
+    },
+    {
+        "word": "pinho",
+        "normalized": "pinho",
+        "timestamp": "2024-05-23"
+    },
+    {
+        "word": "invés",
+        "normalized": "inves",
+        "timestamp": "2024-05-24"
+    },
+    {
+        "word": "urdir",
+        "normalized": "urdir",
+        "timestamp": "2024-05-25"
+    },
+    {
+        "word": "proto",
+        "normalized": "proto",
+        "timestamp": "2024-05-26"
+    },
+    {
+        "word": "cível",
+        "normalized": "civel",
+        "timestamp": "2024-05-27"
+    },
+    {
+        "word": "bolsa",
+        "normalized": "bolsa",
+        "timestamp": "2024-05-28"
+    },
+    {
+        "word": "marca",
+        "normalized": "marca",
+        "timestamp": "2024-05-29"
+    },
+    {
+        "word": "ufano",
+        "normalized": "ufano",
+        "timestamp": "2024-05-30"
+    },
+    {
+        "word": "vista",
+        "normalized": "vista",
+        "timestamp": "2024-05-31"
+    },
+    {
+        "word": "frota",
+        "normalized": "frota",
+        "timestamp": "2024-06-01"
+    },
+    {
+        "word": "mocho",
+        "normalized": "mocho",
+        "timestamp": "2024-06-02"
+    },
+    {
+        "word": "vasta",
+        "normalized": "vasta",
+        "timestamp": "2024-06-03"
+    },
+    {
+        "word": "densa",
+        "normalized": "densa",
+        "timestamp": "2024-06-04"
+    },
+    {
+        "word": "dúbia",
+        "normalized": "dubia",
+        "timestamp": "2024-06-05"
+    },
+    {
+        "word": "bulir",
+        "normalized": "bulir",
+        "timestamp": "2024-06-06"
+    },
+    {
+        "word": "penso",
+        "normalized": "penso",
+        "timestamp": "2024-06-07"
+    },
+    {
+        "word": "piche",
+        "normalized": "piche",
+        "timestamp": "2024-06-08"
+    },
+    {
+        "word": "úmido",
+        "normalized": "umido",
+        "timestamp": "2024-06-09"
+    },
+    {
+        "word": "peita",
+        "normalized": "peita",
+        "timestamp": "2024-06-10"
+    },
+    {
+        "word": "jogar",
+        "normalized": "jogar",
+        "timestamp": "2024-06-11"
+    },
+    {
+        "word": "culta",
+        "normalized": "culta",
+        "timestamp": "2024-06-12"
+    },
+    {
+        "word": "morfo",
+        "normalized": "morfo",
+        "timestamp": "2024-06-13"
+    },
+    {
+        "word": "xucro",
+        "normalized": "xucro",
+        "timestamp": "2024-06-14"
+    },
+    {
+        "word": "esgar",
+        "normalized": "esgar",
+        "timestamp": "2024-06-15"
+    },
+    {
+        "word": "resto",
+        "normalized": "resto",
+        "timestamp": "2024-06-16"
+    },
+    {
+        "word": "mamãe",
+        "normalized": "mamae",
+        "timestamp": "2024-06-17"
+    },
+    {
+        "word": "cheia",
+        "normalized": "cheia",
+        "timestamp": "2024-06-18"
+    },
+    {
+        "word": "close",
+        "normalized": "close",
+        "timestamp": "2024-06-19"
+    },
+    {
+        "word": "linha",
+        "normalized": "linha",
+        "timestamp": "2024-06-20"
+    },
+    {
+        "word": "fazes",
+        "normalized": "fazes",
+        "timestamp": "2024-06-21"
+    },
+    {
+        "word": "apear",
+        "normalized": "apear",
+        "timestamp": "2024-06-22"
+    },
+    {
+        "word": "úbere",
+        "normalized": "ubere",
+        "timestamp": "2024-06-23"
+    },
+    {
+        "word": "chula",
+        "normalized": "chula",
+        "timestamp": "2024-06-24"
+    },
+    {
+        "word": "demão",
+        "normalized": "demao",
+        "timestamp": "2024-06-25"
+    },
+    {
+        "word": "misto",
+        "normalized": "misto",
+        "timestamp": "2024-06-26"
+    },
+    {
+        "word": "narco",
+        "normalized": "narco",
+        "timestamp": "2024-06-27"
+    },
+    {
+        "word": "findo",
+        "normalized": "findo",
+        "timestamp": "2024-06-28"
+    },
+    {
+        "word": "monta",
+        "normalized": "monta",
+        "timestamp": "2024-06-29"
+    },
+    {
+        "word": "natal",
+        "normalized": "natal",
+        "timestamp": "2024-06-30"
+    },
+    {
+        "word": "manto",
+        "normalized": "manto",
+        "timestamp": "2024-07-01"
+    },
+    {
+        "word": "campa",
+        "normalized": "campa",
+        "timestamp": "2024-07-02"
+    },
+    {
+        "word": "stand",
+        "normalized": "stand",
+        "timestamp": "2024-07-03"
+    },
+    {
+        "word": "amada",
+        "normalized": "amada",
+        "timestamp": "2024-07-04"
+    },
+    {
+        "word": "barão",
+        "normalized": "barao",
+        "timestamp": "2024-07-05"
+    },
+    {
+        "word": "fundo",
+        "normalized": "fundo",
+        "timestamp": "2024-07-06"
+    },
+    {
+        "word": "ágape",
+        "normalized": "agape",
+        "timestamp": "2024-07-07"
+    },
+    {
+        "word": "chaga",
+        "normalized": "chaga",
+        "timestamp": "2024-07-08"
+    },
+    {
+        "word": "símio",
+        "normalized": "simio",
+        "timestamp": "2024-07-09"
+    },
+    {
+        "word": "mover",
+        "normalized": "mover",
+        "timestamp": "2024-07-10"
+    },
+    {
+        "word": "retro",
+        "normalized": "retro",
+        "timestamp": "2024-07-11"
+    },
+    {
+        "word": "jazer",
+        "normalized": "jazer",
+        "timestamp": "2024-07-12"
+    },
+    {
+        "word": "venho",
+        "normalized": "venho",
+        "timestamp": "2024-07-13"
+    },
+    {
+        "word": "álbum",
+        "normalized": "album",
+        "timestamp": "2024-07-14"
+    },
+    {
+        "word": "tenha",
+        "normalized": "tenha",
+        "timestamp": "2024-07-15"
+    },
+    {
+        "word": "nessa",
+        "normalized": "nessa",
+        "timestamp": "2024-07-16"
+    },
+    {
+        "word": "preço",
+        "normalized": "preco",
+        "timestamp": "2024-07-17"
+    },
+    {
+        "word": "ardis",
+        "normalized": "ardis",
+        "timestamp": "2024-07-18"
+    },
+    {
+        "word": "folia",
+        "normalized": "folia",
+        "timestamp": "2024-07-19"
+    },
+    {
+        "word": "punha",
+        "normalized": "punha",
+        "timestamp": "2024-07-20"
+    },
+    {
+        "word": "sigla",
+        "normalized": "sigla",
+        "timestamp": "2024-07-21"
+    },
+    {
+        "word": "cerca",
+        "normalized": "cerca",
+        "timestamp": "2024-07-22"
+    },
+    {
+        "word": "seiva",
+        "normalized": "seiva",
+        "timestamp": "2024-07-23"
+    },
+    {
+        "word": "sabor",
+        "normalized": "sabor",
+        "timestamp": "2024-07-24"
+    },
+    {
+        "word": "calça",
+        "normalized": "calca",
+        "timestamp": "2024-07-25"
+    },
+    {
+        "word": "álamo",
+        "normalized": "alamo",
+        "timestamp": "2024-07-26"
+    },
+    {
+        "word": "cosmo",
+        "normalized": "cosmo",
+        "timestamp": "2024-07-27"
+    },
+    {
+        "word": "firma",
+        "normalized": "firma",
+        "timestamp": "2024-07-28"
+    },
+    {
+        "word": "matar",
+        "normalized": "matar",
+        "timestamp": "2024-07-29"
+    },
+    {
+        "word": "rente",
+        "normalized": "rente",
+        "timestamp": "2024-07-30"
+    },
+    {
+        "word": "banto",
+        "normalized": "banto",
+        "timestamp": "2024-07-31"
+    },
+    {
+        "word": "louro",
+        "normalized": "louro",
+        "timestamp": "2024-08-01"
+    },
+    {
+        "word": "pólis",
+        "normalized": "polis",
+        "timestamp": "2024-08-02"
+    },
+    {
+        "word": "ferpa",
+        "normalized": "ferpa",
+        "timestamp": "2024-08-03"
+    },
+    {
+        "word": "salva",
+        "normalized": "salva",
+        "timestamp": "2024-08-04"
+    },
+    {
+        "word": "tumba",
+        "normalized": "tumba",
+        "timestamp": "2024-08-05"
+    },
+    {
+        "word": "ceita",
+        "normalized": "ceita",
+        "timestamp": "2024-08-06"
+    },
+    {
+        "word": "míope",
+        "normalized": "miope",
+        "timestamp": "2024-08-07"
+    },
+    {
+        "word": "coevo",
+        "normalized": "coevo",
+        "timestamp": "2024-08-08"
+    },
+    {
+        "word": "barro",
+        "normalized": "barro",
+        "timestamp": "2024-08-09"
+    },
+    {
+        "word": "arroz",
+        "normalized": "arroz",
+        "timestamp": "2024-08-10"
+    },
+    {
+        "word": "torna",
+        "normalized": "torna",
+        "timestamp": "2024-08-11"
+    },
+    {
+        "word": "verão",
+        "normalized": "verao",
+        "timestamp": "2024-08-12"
+    },
+    {
+        "word": "velha",
+        "normalized": "velha",
+        "timestamp": "2024-08-13"
+    },
+    {
+        "word": "sinta",
+        "normalized": "sinta",
+        "timestamp": "2024-08-14"
+    },
+    {
+        "word": "redor",
+        "normalized": "redor",
+        "timestamp": "2024-08-15"
+    },
+    {
+        "word": "volta",
+        "normalized": "volta",
+        "timestamp": "2024-08-16"
+    },
+    {
+        "word": "enjoo",
+        "normalized": "enjoo",
+        "timestamp": "2024-08-17"
+    },
+    {
+        "word": "solta",
+        "normalized": "solta",
+        "timestamp": "2024-08-18"
+    },
+    {
+        "word": "ousar",
+        "normalized": "ousar",
+        "timestamp": "2024-08-19"
+    },
+    {
+        "word": "bolso",
+        "normalized": "bolso",
+        "timestamp": "2024-08-20"
+    },
+    {
+        "word": "etapa",
+        "normalized": "etapa",
+        "timestamp": "2024-08-21"
+    },
+    {
+        "word": "santo",
+        "normalized": "santo",
+        "timestamp": "2024-08-22"
+    },
+    {
+        "word": "áudio",
+        "normalized": "audio",
+        "timestamp": "2024-08-23"
+    },
+    {
+        "word": "trago",
+        "normalized": "trago",
+        "timestamp": "2024-08-24"
+    },
+    {
+        "word": "lousa",
+        "normalized": "lousa",
+        "timestamp": "2024-08-25"
+    },
+    {
+        "word": "zumbi",
+        "normalized": "zumbi",
+        "timestamp": "2024-08-26"
+    },
+    {
+        "word": "fugiu",
+        "normalized": "fugiu",
+        "timestamp": "2024-08-27"
+    },
+    {
+        "word": "corar",
+        "normalized": "corar",
+        "timestamp": "2024-08-28"
+    },
+    {
+        "word": "letra",
+        "normalized": "letra",
+        "timestamp": "2024-08-29"
+    },
+    {
+        "word": "nesta",
+        "normalized": "nesta",
+        "timestamp": "2024-08-30"
+    },
+    {
+        "word": "obtém",
+        "normalized": "obtem",
+        "timestamp": "2024-08-31"
+    },
+    {
+        "word": "lutar",
+        "normalized": "lutar",
+        "timestamp": "2024-09-01"
+    },
+    {
+        "word": "final",
+        "normalized": "final",
+        "timestamp": "2024-09-02"
+    },
+    {
+        "word": "queda",
+        "normalized": "queda",
+        "timestamp": "2024-09-03"
+    },
+    {
+        "word": "cacto",
+        "normalized": "cacto",
+        "timestamp": "2024-09-04"
+    },
+    {
+        "word": "mimar",
+        "normalized": "mimar",
+        "timestamp": "2024-09-05"
+    },
+    {
+        "word": "baixa",
+        "normalized": "baixa",
+        "timestamp": "2024-09-06"
+    },
+    {
+        "word": "troço",
+        "normalized": "troco",
+        "timestamp": "2024-09-07"
+    },
+    {
+        "word": "farol",
+        "normalized": "farol",
+        "timestamp": "2024-09-08"
+    },
+    {
+        "word": "reler",
+        "normalized": "reler",
+        "timestamp": "2024-09-09"
+    },
+    {
+        "word": "fátuo",
+        "normalized": "fatuo",
+        "timestamp": "2024-09-10"
+    },
+    {
+        "word": "penca",
+        "normalized": "penca",
+        "timestamp": "2024-09-11"
+    },
+    {
+        "word": "veloz",
+        "normalized": "veloz",
+        "timestamp": "2024-09-12"
+    },
+    {
+        "word": "vário",
+        "normalized": "vario",
+        "timestamp": "2024-09-13"
+    },
+    {
+        "word": "quite",
+        "normalized": "quite",
+        "timestamp": "2024-09-14"
+    },
+    {
+        "word": "nácar",
+        "normalized": "nacar",
+        "timestamp": "2024-09-15"
+    },
+    {
+        "word": "longo",
+        "normalized": "longo",
+        "timestamp": "2024-09-16"
+    },
+    {
+        "word": "vazia",
+        "normalized": "vazia",
+        "timestamp": "2024-09-17"
+    },
+    {
+        "word": "neste",
+        "normalized": "neste",
+        "timestamp": "2024-09-18"
+    },
+    {
+        "word": "burra",
+        "normalized": "burra",
+        "timestamp": "2024-09-19"
+    },
+    {
+        "word": "coroa",
+        "normalized": "coroa",
+        "timestamp": "2024-09-20"
+    },
+    {
+        "word": "folha",
+        "normalized": "folha",
+        "timestamp": "2024-09-21"
+    },
+    {
+        "word": "mania",
+        "normalized": "mania",
+        "timestamp": "2024-09-22"
+    },
+    {
+        "word": "farto",
+        "normalized": "farto",
+        "timestamp": "2024-09-23"
+    },
+    {
+        "word": "sugar",
+        "normalized": "sugar",
+        "timestamp": "2024-09-24"
+    },
+    {
+        "word": "forro",
+        "normalized": "forro",
+        "timestamp": "2024-09-25"
+    },
+    {
+        "word": "staff",
+        "normalized": "staff",
+        "timestamp": "2024-09-26"
+    },
+    {
+        "word": "puído",
+        "normalized": "puido",
+        "timestamp": "2024-09-27"
+    },
+    {
+        "word": "refil",
+        "normalized": "refil",
+        "timestamp": "2024-09-28"
+    },
+    {
+        "word": "bedel",
+        "normalized": "bedel",
+        "timestamp": "2024-09-29"
+    },
+    {
+        "word": "dança",
+        "normalized": "danca",
+        "timestamp": "2024-09-30"
+    },
+    {
+        "word": "justa",
+        "normalized": "justa",
+        "timestamp": "2024-10-01"
+    },
+    {
+        "word": "ultra",
+        "normalized": "ultra",
+        "timestamp": "2024-10-02"
+    },
+    {
+        "word": "repor",
+        "normalized": "repor",
+        "timestamp": "2024-10-03"
+    },
+    {
+        "word": "viger",
+        "normalized": "viger",
+        "timestamp": "2024-10-04"
+    },
+    {
+        "word": "lucro",
+        "normalized": "lucro",
+        "timestamp": "2024-10-05"
+    },
+    {
+        "word": "subir",
+        "normalized": "subir",
+        "timestamp": "2024-10-06"
+    },
+    {
+        "word": "logos",
+        "normalized": "logos",
+        "timestamp": "2024-10-07"
+    },
+    {
+        "word": "passe",
+        "normalized": "passe",
+        "timestamp": "2024-10-08"
+    },
+    {
+        "word": "urgir",
+        "normalized": "urgir",
+        "timestamp": "2024-10-09"
+    },
+    {
+        "word": "custo",
+        "normalized": "custo",
+        "timestamp": "2024-10-10"
+    },
+    {
+        "word": "sadio",
+        "normalized": "sadio",
+        "timestamp": "2024-10-11"
+    },
+    {
+        "word": "chave",
+        "normalized": "chave",
+        "timestamp": "2024-10-12"
+    },
+    {
+        "word": "hífen",
+        "normalized": "hifen",
+        "timestamp": "2024-10-13"
+    },
+    {
+        "word": "sexto",
+        "normalized": "sexto",
+        "timestamp": "2024-10-14"
+    },
+    {
+        "word": "gueto",
+        "normalized": "gueto",
+        "timestamp": "2024-10-15"
+    },
+    {
+        "word": "mimos",
+        "normalized": "mimos",
+        "timestamp": "2024-10-16"
+    },
+    {
+        "word": "valer",
+        "normalized": "valer",
+        "timestamp": "2024-10-17"
+    },
+    {
+        "word": "mouro",
+        "normalized": "mouro",
+        "timestamp": "2024-10-18"
+    },
+    {
+        "word": "usual",
+        "normalized": "usual",
+        "timestamp": "2024-10-19"
+    },
+    {
+        "word": "sócio",
+        "normalized": "socio",
+        "timestamp": "2024-10-20"
+    },
+    {
+        "word": "lento",
+        "normalized": "lento",
+        "timestamp": "2024-10-21"
+    },
+    {
+        "word": "cardo",
+        "normalized": "cardo",
+        "timestamp": "2024-10-22"
+    },
+    {
+        "word": "salmo",
+        "normalized": "salmo",
+        "timestamp": "2024-10-23"
+    },
+    {
+        "word": "versa",
+        "normalized": "versa",
+        "timestamp": "2024-10-24"
+    },
+    {
+        "word": "calor",
+        "normalized": "calor",
+        "timestamp": "2024-10-25"
+    },
+    {
+        "word": "desça",
+        "normalized": "desca",
+        "timestamp": "2024-10-26"
+    },
+    {
+        "word": "lábil",
+        "normalized": "labil",
+        "timestamp": "2024-10-27"
+    },
+    {
+        "word": "calvo",
+        "normalized": "calvo",
+        "timestamp": "2024-10-28"
+    },
+    {
+        "word": "rédea",
+        "normalized": "redea",
+        "timestamp": "2024-10-29"
+    },
+    {
+        "word": "anzol",
+        "normalized": "anzol",
+        "timestamp": "2024-10-30"
+    },
+    {
+        "word": "árdua",
+        "normalized": "ardua",
+        "timestamp": "2024-10-31"
+    },
+    {
+        "word": "arara",
+        "normalized": "arara",
+        "timestamp": "2024-11-01"
+    }
+]

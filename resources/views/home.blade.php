@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>
-            Palavrinhas
+            Pitaco
         </title>
 
         <!-- Fonts -->
@@ -24,12 +24,12 @@
         </style>
     </head>
     <body class="antialiased">
-        <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0" style="flex-direction: column">
+        <div class="relative flex flex-col items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center">
-                    <h2 class="text-gray-900 dark:text-white text-3xl uppercase mt-8">
-                        Palavrinhas
+                    <h2 class="text-gray-900 dark:text-white text-3xl font-black mt-8">
+                        Pitaco
                     </h2>
                 </div>
 
@@ -37,7 +37,7 @@
                     @foreach ($word_board['rows'] as $row)
                         <div class="board-row flex justify-center items-center">
                             @foreach ($word_board['columns'] as $column)
-                                <div class="flex justify-center items-center border border-gray-50 w-16 h-16 m-0.5 text-gray-300 font-extrabold text-2xl uppercase" data-column="{{ $column }}" data-row="{{ $row }}"></div>
+                                <div class="flex justify-center items-center border border-gray-500 text-gray-500 dark:border-gray-50 w-16 h-16 m-0.5 dark:text-gray-300 font-extrabold text-2xl uppercase" data-column="{{ $column }}" data-row="{{ $row }}"></div>
                             @endforeach
                         </div>
                     @endforeach
@@ -49,7 +49,7 @@
                 @foreach ($keyboard as $keyboard_row_index => $keyboard_row)
                     <div class="row flex justify-center items-center">
                         @foreach ($keyboard_row as $key_index => $key)
-                            <div class="key flex justify-center items-center {{ (in_array($key_index, [0, 8]) && $keyboard_row_index == 2)  ? 'w-20' : 'w-10'}} h-12 text-gray-500 border border-gray-50 rounded m-1 hover:bg-slate-600 hover:text-white hover:cursor-pointer">
+                            <div class="key flex justify-center items-center {{ (in_array($key_index, [0, 8]) && $keyboard_row_index == 2)  ? 'w-20' : 'w-10'}} h-12 text-gray-500 border border-gray-400 dark:border-gray-50 rounded m-1 hover:bg-slate-600 hover:text-white hover:cursor-pointer">
                                 <span>
                                     {!! $key !!}
                                 </span>
