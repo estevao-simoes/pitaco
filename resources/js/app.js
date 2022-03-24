@@ -1,4 +1,9 @@
 require('./bootstrap')
+
+import tippy from 'tippy.js';
+import 'tippy.js/dist/tippy.css'; // optional for styling
+import 'tippy.js/themes/light.css';
+
 const wordList = require('./lib/words.json')
 const allWordList = require('./lib/5-letter-words.json')
 
@@ -6,6 +11,7 @@ const allWordList = require('./lib/5-letter-words.json')
 let currentRow = 1
 let currentColumn = 1
 let currentWord = null
+let gameWon = false
 
 const currentDate = new Date().toISOString().slice(0, 10)
 
@@ -28,19 +34,34 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     })
 
-    document.addEventListener('keydown', (event) => {
-        validateInput(event);
+    let status = false
+
+    document.addEventListener('keydown', async (event) => {
+        if (!status) {
+            status = true
+
+            try {
+                await validateInput(event);
+            } finally {
+                status = false
+            }
+        }
     });
     
     document.querySelectorAll('#keyboard .key').forEach((key) => {
-        key.addEventListener('click', (event) => {
-            validateInput(event);
+        key.addEventListener('click', async (event) => {
+            // await keyPress(event.target)
+            await validateInput(event);
         });
     });
 });
 
+async function keyPress(key) {
+    // return new Promise(resolve => key.onkeyup = () => resolve());
+    return new Promise(resolve => key.onkeyup = resolve);
+}
 
-function validateInput(event){
+async function validateInput(event){
     
     if (isValidKeypress(event) && boxIsEmpty()) {
         addLetterToColumn(event)
@@ -52,7 +73,7 @@ function validateInput(event){
     }
 
     if (isSubmit(event)) {
-        return validateRow()
+        return await validateRow()
     }
 }
 
@@ -109,6 +130,11 @@ function getLetterInPosition(row, col){
     return document.querySelector(`.board-row div[data-column='${col}'][data-row='${row}']`)
 }
 
+function getKeyboardLetterElement(letter){
+    console.log(letter)
+    return document.querySelector(`#keyboard div[data-key='${ letter.toLowerCase() }']`)
+}
+
 function clearLetterBox() {
     return letterBox(currentColumn, currentRow).innerHTML = ''
 }
@@ -124,35 +150,43 @@ function getInputWord()
     return String(currentInputWord)
 }
 
-async function inputWordIsReal()
+function inputWordIsReal()
 {
-    let currentInputWord = getInputWord();
+    
+    let currentInputWord = getInputWord()
 
-    return allWordList.some(
+    return allWordList.filter(
         word => word.normalized == currentInputWord
-    );
+    )
+
+}
+
+async function setWordWithAccents(word)
+{
+    
+    for (let column = 1; column <= params.maxCols; column++) {
+        getLetterInPosition(currentRow, column).textContent = word.word.charAt(column - 1)
+    }
 
 }
 
 async function compareInputWithCurrentWord()
 {
 
-    const inputIsReal = await inputWordIsReal()
+    const inputIsReal = inputWordIsReal()
 
-    if(inputIsReal){
+    if(inputIsReal.length){
         for (let column = 1; column <= params.maxCols; column++) {
             
             let letter = getLetterInPosition(currentRow, column).innerHTML
     
-            console.log({
-                'column': column,
-                'letter': letter,
-            })
-    
+
             if (currentWord.normalized.charAt(column - 1) == getLetterInPosition(currentRow, column).textContent){
                 // has the letter
                 getLetterInPosition(currentRow, column).style.background = '#15803d' // green
                 getLetterInPosition(currentRow, column).style.color = 'white'
+                console.log(getKeyboardLetterElement(getLetterInPosition(currentRow, column).textContent))
+
             } else if (currentWord.normalized.indexOf(letter) != -1) {
                 // has letter, but not on current colmn
                 getLetterInPosition(currentRow, column).style.background = '#78350f' // brown
@@ -161,6 +195,12 @@ async function compareInputWithCurrentWord()
                 // doesnt have the letter
                 getLetterInPosition(currentRow, column).style.background = '#1f2937' // gray
                 getLetterInPosition(currentRow, column).style.color = 'white'
+            }
+
+            setWordWithAccents(inputIsReal[0])
+
+            if (currentWord.normalized == getInputWord()){
+                gameWon = true                
             }
     
             getLetterInPosition(currentRow, column).animate([
@@ -177,7 +217,41 @@ async function compareInputWithCurrentWord()
         currentRow++
     }
     else{
-        alert('Palavra não existe')
+        
+        let row = document.querySelector(`#row-${currentRow}`)
+
+        row.animate([
+            {   
+                transform: 'translate3d(-1px, 0, 0)',
+                cssOffset: 0.1
+            },
+            {
+                transform: 'translate3d(2px, 0, 0)',
+                cssOffset: 0.3
+            },
+            {
+                transform: 'translate3d(-4px, 0, 0)',
+                cssOffset: 0.8
+            },
+            {
+                transform: 'translate3d(4px, 0, 0)',
+                cssOffset: 1
+            },
+        ], {
+            duration: 120,
+        });
+
+        let tooltip = tippy(row, {
+            content: 'A palavra não existe',
+            theme: 'light',
+        })
+
+        tooltip.show()
+        
+        await sleep(800);
+
+        tooltip.disable()
+        
     }
 
 }
