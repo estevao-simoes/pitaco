@@ -221,22 +221,10 @@ async function compareInputWithCurrentWord()
         let row = document.querySelector(`#row-${currentRow}`)
 
         row.animate([
-            {   
-                transform: 'translate3d(-1px, 0, 0)',
-                cssOffset: 0.1
-            },
-            {
-                transform: 'translate3d(2px, 0, 0)',
-                cssOffset: 0.3
-            },
-            {
-                transform: 'translate3d(-4px, 0, 0)',
-                cssOffset: 0.8
-            },
-            {
-                transform: 'translate3d(4px, 0, 0)',
-                cssOffset: 1
-            },
+            { transform: 'translate3d(-1px, 0, 0)' },
+            { transform: 'translate3d(2px, 0, 0)' },
+            { transform: 'translate3d(-4px, 0, 0)' },
+            { transform: 'translate3d(4px, 0, 0)' },
         ], {
             duration: 120,
         });

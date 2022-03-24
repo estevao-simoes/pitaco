@@ -12,8 +12,6 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
-    <script src="//unpkg.com/alpinejs" defer></script>
-
     <script src="{{ asset('js/app.js') }}"></script>
 
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
@@ -62,15 +60,6 @@
             @endforeach
         </div>
     </div>
-    {{-- <script src="https://unpkg.com/@popperjs/core@2"></script>
-    <script src="https://unpkg.com/tippy.js@6"></script>
-    <script>
-        // With the above scripts loaded, you can call `tippy()` with a CSS
-        // selector and a `content` prop:
-        tippy('#myButton', {
-            content: 'My tooltip!',
-        });
-    </script> --}}
 </body>
 
 </html>
