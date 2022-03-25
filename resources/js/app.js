@@ -206,8 +206,6 @@ async function compareInputWithCurrentWord()
 
     if(inputIsReal.length){
 
-        setWordWithAccents(inputIsReal[0])
-
         for (let column = 1; column <= params.maxCols; column++) {
             
             let letter = getLetterInPosition(currentRow, column).innerHTML
@@ -241,6 +239,8 @@ async function compareInputWithCurrentWord()
     
             await sleep(350);
         }
+
+        setWordWithAccents(inputIsReal[0])
         
         gameState.state.curRow = currentRow
         gameState.state.curTry = getInputWord()
