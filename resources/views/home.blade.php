@@ -3,10 +3,12 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="author" content="Estevão Simões">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Jogo de palavras. Inspirado pelo termo ooo. O wordle em portuges">
 
     <title>
-        Pitaco
+        Pitaco do dia - Wordle Brasileiro
     </title>
 
     <!-- Fonts -->
@@ -22,16 +24,21 @@
         }
     </style>
 </head>
-<body class="antialiased">
-    <div class="relative flex flex-col items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
+<body class="antialiased relative flex flex-col items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
+    <header>
+        <h1 class="hidden">
+            Jogo de palavras brasileiro inspirado no wordle
+        </h1>
+        
+        <div class="flex justify-center">
+            <h2 class="text-gray-900 dark:text-white text-3xl font-black mt-8">
+                Pitaco
+            </h2>
+        </div>
+    </header>
 
+    <main>
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-            
-            <div class="flex justify-center">
-                <h2 class="text-gray-900 dark:text-white text-3xl font-black mt-8">
-                    Pitaco
-                </h2>
-            </div>
 
             <div class="mt-8">
                 @foreach ($word_board['rows'] as $row)
@@ -60,10 +67,12 @@
                 </div>
             @endforeach
         </div>
-    </div>
-    <div class="text-white absolute left-0 bottom-0 ml-4 mb-4">
-        <div class="inline" id="countdown"></div>   
-    </div>
+    </main>
+    <footer>
+        <div class="text-white absolute left-0 bottom-0 ml-4 mb-4">
+            <div class="inline" id="countdown"></div>   
+        </div>
+    </footer>
 </body>
 
 </html>
