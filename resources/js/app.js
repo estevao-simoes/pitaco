@@ -227,6 +227,7 @@ async function compareInputWithCurrentWord()
                 getLetterInPosition(currentRow, column).style.background = '#1f2937' // gray
                 getLetterInPosition(currentRow, column).style.color = 'white'
                 getKeyboardLetterElement(letter).style.background = '#1f2937'
+                getKeyboardLetterElement(letter).style.opacity = '0.15'
 
             }
     
@@ -370,16 +371,20 @@ function updateBoardBasedOnState()
                 // has the letter
                 getLetterInPosition(currentRow, column).style.background = '#15803d' // green
                 getLetterInPosition(currentRow, column).style.color = 'white'
+                getKeyboardLetterElement(word.charAt(column - 1)).style.background = '#15803d'
 
             } else if (currentWord.normalized.indexOf(word.charAt(column - 1)) != -1) {
                 // has letter, but not on current colmn
                 getLetterInPosition(currentRow, column).style.background = '#78350f' // brown
                 getLetterInPosition(currentRow, column).style.color = 'white'
+                getKeyboardLetterElement(word.charAt(column - 1)).style.background = '#78350f'
 
             } else {
                 // doesnt have the letter
                 getLetterInPosition(currentRow, column).style.background = '#1f2937' // gray
                 getLetterInPosition(currentRow, column).style.color = 'white'
+                getKeyboardLetterElement(word.charAt(column - 1)).style.background = '#1f2937'
+                getKeyboardLetterElement(word.charAt(column - 1)).style.opacity = '0.15'
 
             }
 
