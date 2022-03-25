@@ -11,9 +11,13 @@ const allWordList = require('./lib/5-letter-words.json')
 let currentRow = 1
 let currentColumn = 1
 let currentWord = null
-let gameWon = false
+let gameState = {}
 
 const currentDate = new Date().toISOString().slice(0, 10)
+
+let date = new Date(currentDate)
+let timerEnd = date.setDate(date.getDate() + 1)
+
 
 const letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
@@ -22,11 +26,29 @@ const params = {
     'maxCols': 5
 }
 
-// window.localStorage.setItem('game')
+if (localStorage.getItem('pitaco') === null) {
+    setInitialGameState()
+} else {
+    getCurrentGameState()
+}
+
+if (currentDate != gameState.state.curDate){
+    gameState.state = {
+        "curDate": currentDate,
+        "tries": [], //array of arrays
+        "invalids": [],
+        "curRow": 0,
+        "curTry": [],
+        "gameOver": false,
+        "won": false
+    }
+}
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 document.addEventListener('DOMContentLoaded', () => {
+
+    showCountdownToNextWord()
 
     wordList.forEach((word) => {
         if (currentDate == word.timestamp) {
@@ -34,34 +56,42 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     })
 
-    let status = false
+    updateBoardBasedOnState()
 
+    // debounce
+    let status = false
+    
     document.addEventListener('keydown', async (event) => {
         if (!status) {
             status = true
-
+            
             try {
-                await validateInput(event);
+                await validateInput(event).then(() => {
+                    gameState.state.curTry = getInputWord()
+                    setGameState(gameState)
+                });
             } finally {
                 status = false
             }
         }
-    });
+    })
     
     document.querySelectorAll('#keyboard .key').forEach((key) => {
         key.addEventListener('click', async (event) => {
             // await keyPress(event.target)
-            await validateInput(event);
+            await validateInput(event).then(() => {
+                gameState.state.curTry = getInputWord()
+                setGameState(gameState)
+            });
         });
     });
+
 });
 
-async function keyPress(key) {
-    // return new Promise(resolve => key.onkeyup = () => resolve());
-    return new Promise(resolve => key.onkeyup = resolve);
-}
 
 async function validateInput(event){
+
+    if(gameState.state.won || gameState.state.gameOver) return
     
     if (isValidKeypress(event) && boxIsEmpty()) {
         addLetterToColumn(event)
@@ -131,7 +161,6 @@ function getLetterInPosition(row, col){
 }
 
 function getKeyboardLetterElement(letter){
-    console.log(letter)
     return document.querySelector(`#keyboard div[data-key='${ letter.toLowerCase() }']`)
 }
 
@@ -147,7 +176,7 @@ function getInputWord()
         currentInputWord = currentInputWord + getLetterInPosition(currentRow, column).textContent
     }
 
-    return String(currentInputWord)
+    return String(currentInputWord).trim()
 }
 
 function inputWordIsReal()
@@ -176,31 +205,28 @@ async function compareInputWithCurrentWord()
     const inputIsReal = inputWordIsReal()
 
     if(inputIsReal.length){
+
+        setWordWithAccents(inputIsReal[0])
+
         for (let column = 1; column <= params.maxCols; column++) {
             
             let letter = getLetterInPosition(currentRow, column).innerHTML
-    
 
             if (currentWord.normalized.charAt(column - 1) == getLetterInPosition(currentRow, column).textContent){
                 // has the letter
                 getLetterInPosition(currentRow, column).style.background = '#15803d' // green
                 getLetterInPosition(currentRow, column).style.color = 'white'
-                console.log(getKeyboardLetterElement(getLetterInPosition(currentRow, column).textContent))
 
             } else if (currentWord.normalized.indexOf(letter) != -1) {
                 // has letter, but not on current colmn
                 getLetterInPosition(currentRow, column).style.background = '#78350f' // brown
                 getLetterInPosition(currentRow, column).style.color = 'white'
+
             } else {
                 // doesnt have the letter
                 getLetterInPosition(currentRow, column).style.background = '#1f2937' // gray
                 getLetterInPosition(currentRow, column).style.color = 'white'
-            }
 
-            setWordWithAccents(inputIsReal[0])
-
-            if (currentWord.normalized == getInputWord()){
-                gameWon = true                
             }
     
             getLetterInPosition(currentRow, column).animate([
@@ -212,13 +238,24 @@ async function compareInputWithCurrentWord()
     
             await sleep(350);
         }
+        
+        gameState.state.curRow = currentRow
+        gameState.state.curTry = getInputWord()
+        gameState.state.tries.push(getInputWord())
+
+        if (currentWord.normalized == getInputWord()) {
+            gameState.state.won = true
+            gameState.state.gameOver = true
+        }
 
         currentColumn = 1
         currentRow++
-    }
-    else{
+
+    } else {
         
         let row = document.querySelector(`#row-${currentRow}`)
+
+        gameState.state.invalids.push(getInputWord())
 
         row.animate([
             { transform: 'translate3d(-1px, 0, 0)' },
@@ -241,6 +278,8 @@ async function compareInputWithCurrentWord()
         tooltip.disable()
         
     }
+
+    setGameState(gameState)
 
 }
 
@@ -265,3 +304,108 @@ function isSubmit(event){
         || event.target.textContent.trim() == 'ENTER'
 }
 
+// Storage Functions
+
+function setGameState(gameState)
+{
+    return localStorage.setItem('pitaco', JSON.stringify(gameState))
+}
+
+function getCurrentGameState()
+{
+    gameState = JSON.parse(localStorage.getItem('pitaco'))
+
+    return gameState
+}
+
+function setInitialGameState()
+{
+    gameState = {
+        // "config": { "highContrast": 0, "hardMode": 0 },
+        // "meta": { "startTime": 1, "endTime": 2, "highContrastChange": 0 },
+        "stats": {
+            "games": 0,
+            "wins": 0,
+            "curstreak": 0,
+            "avgtime": 0,
+            "mintime": 0,
+            "maxtime": 0,
+            "maxstreak": 0,
+            "history": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "state": {
+            "curDate": currentDate,
+            "tries": [], //array of arrays
+            "invalids": [],
+            "curRow": 0,
+            "curTry": ['a', 'b', 'c', 'd', 'e'],
+            "gameOver": false,
+            "won": false
+        }
+    }
+
+    return setGameState(gameState)
+}
+
+function updateBoardBasedOnState()
+{
+    gameState.state.tries.forEach( (word) => {
+        for (let column = 1; column <= params.maxCols; column++) {
+
+            getLetterInPosition(currentRow, column).innerHTML = word.charAt(column - 1)
+
+            if (currentWord.normalized.charAt(column - 1) == word.charAt(column - 1)) {
+                // has the letter
+                getLetterInPosition(currentRow, column).style.background = '#15803d' // green
+                getLetterInPosition(currentRow, column).style.color = 'white'
+
+            } else if (currentWord.normalized.indexOf(word.charAt(column - 1)) != -1) {
+                // has letter, but not on current colmn
+                getLetterInPosition(currentRow, column).style.background = '#78350f' // brown
+                getLetterInPosition(currentRow, column).style.color = 'white'
+
+            } else {
+                // doesnt have the letter
+                getLetterInPosition(currentRow, column).style.background = '#1f2937' // gray
+                getLetterInPosition(currentRow, column).style.color = 'white'
+
+            }
+        }
+
+        currentRow ++
+    })
+}
+
+function showCountdownToNextWord()
+{
+    setInterval(showRemaining, 1000);
+}
+
+function showRemaining() {
+    const _second = 1000;
+    const _minute = _second * 60;
+    const _hour = _minute * 60;
+    const _day = _hour * 24;
+
+    let now = new Date();
+    let distance = timerEnd - now;
+
+    if (distance < 0) {
+        location.reload();
+    }
+
+    let hours = Math.floor((distance % _day) / _hour);
+    let minutes = Math.floor((distance % _hour) / _minute);
+    let seconds = Math.floor((distance % _minute) / _second);
+
+    document.getElementById('countdown').innerHTML = hours + 'H ';
+    document.getElementById('countdown').innerHTML += minutes + 'M ';
+    document.getElementById('countdown').innerHTML += seconds + 'S ';
+}
