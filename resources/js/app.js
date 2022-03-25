@@ -240,7 +240,7 @@ async function compareInputWithCurrentWord()
             await sleep(350);
         }
 
-        setWordWithAccents(inputIsReal[0])
+        
         
         gameState.state.curRow = currentRow
         gameState.state.curTry = getInputWord()
@@ -250,6 +250,8 @@ async function compareInputWithCurrentWord()
             gameState.state.won = true
             gameState.state.gameOver = true
         }
+
+        setWordWithAccents(inputIsReal[0])
 
         currentColumn = 1
         currentRow++
@@ -380,8 +382,10 @@ function updateBoardBasedOnState()
                 getLetterInPosition(currentRow, column).style.color = 'white'
 
             }
-        }
 
+        }
+        
+        setWordWithAccents(inputWordIsReal()[0])
         currentRow ++
     })
 }
