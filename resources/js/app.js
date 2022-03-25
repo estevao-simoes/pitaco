@@ -161,7 +161,7 @@ function getLetterInPosition(row, col){
 }
 
 function getKeyboardLetterElement(letter){
-    return document.querySelector(`#keyboard div[data-key='${ letter.toLowerCase() }']`)
+    return document.querySelector(`#keyboard div[data-key='${ letter.toUpperCase() }']`)
 }
 
 function clearLetterBox() {
@@ -216,16 +216,19 @@ async function compareInputWithCurrentWord()
                 // has the letter
                 getLetterInPosition(currentRow, column).style.background = '#15803d' // green
                 getLetterInPosition(currentRow, column).style.color = 'white'
+                getKeyboardLetterElement(letter).style.background = '#15803d'
 
             } else if (currentWord.normalized.indexOf(letter) != -1) {
                 // has letter, but not on current colmn
                 getLetterInPosition(currentRow, column).style.background = '#78350f' // brown
                 getLetterInPosition(currentRow, column).style.color = 'white'
+                getKeyboardLetterElement(letter).style.background = '#78350f'
 
             } else {
                 // doesnt have the letter
                 getLetterInPosition(currentRow, column).style.background = '#1f2937' // gray
                 getLetterInPosition(currentRow, column).style.color = 'white'
+                getKeyboardLetterElement(letter).style.background = '#1f2937'
 
             }
     
