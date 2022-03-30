@@ -250,6 +250,13 @@ async function compareInputWithCurrentWord()
         if (currentWord.normalized == getInputWord()) {
             gameState.state.won = true
             gameState.state.gameOver = true
+            sendGameToServer()
+        }
+
+        if(currentRow == params.maxRows){
+            gameState.state.won = false
+            gameState.state.gameOver = true
+            sendGameToServer()
         }
 
         setWordWithAccents(inputIsReal[0])
@@ -351,7 +358,7 @@ function setInitialGameState()
             "tries": [], //array of arrays
             "invalids": [],
             "curRow": 0,
-            "curTry": ['a', 'b', 'c', 'd', 'e'],
+            "curTry": [],
             "gameOver": false,
             "won": false
         }
@@ -420,4 +427,11 @@ function showRemaining() {
     document.getElementById('countdown').innerHTML = hours + 'H ';
     document.getElementById('countdown').innerHTML += minutes + 'M ';
     document.getElementById('countdown').innerHTML += seconds + 'S ';
+}
+
+async function sendGameToServer()
+{
+    window.axios.post('/api/game', {
+        state: JSON.stringify(gameState.state)
+    })
 }
